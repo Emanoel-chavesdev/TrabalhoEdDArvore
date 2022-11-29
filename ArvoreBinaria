@@ -131,20 +131,14 @@ class Tree {
      while (atual != null) { // enquanto nao chegar no Nó mais a esquerda
        paidosucessor = sucessor;
        sucessor = atual;
-       atual = atual.esq; // caminha para a esquerda
+       atual = atual.esq; 
      } 
-     // *********************************************************************************
-     // quando sair do while "sucessor" será o Nó mais a esquerda da subarvore a direita
-     // "paidosucessor" será o o pai de sucessor e "apaga" o Nó que deverá ser eliminado
-     // *********************************************************************************
-     if (sucessor != apaga.dir) { // se sucessor nao é o filho a direita do Nó que deverá ser eliminado
-       paidosucessor.esq = sucessor.dir; // pai herda os filhos do sucessor que sempre serão a direita
-       // lembrando que o sucessor nunca poderá ter filhos a esquerda, pois, ele sempre será o
-       // Nó mais a esquerda da subarvore a direita do Nó apaga.
-       // lembrando também que sucessor sempre será o filho a esquerda do pai
+     
+     if (sucessor != apaga.dir) { 
+       paidosucessor.esq = sucessor.dir;
+       
 
-       sucessor.dir = apaga.dir; // guardando a referencia a direita do sucessor para 
-                                 // quando ele assumir a posição correta na arvore
+       sucessor.dir = apaga.dir; 
      }
      return sucessor;
   }
