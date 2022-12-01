@@ -56,6 +56,13 @@ public class Main {
 
         PRODUTOS.add(produto);
     }
+    
+    private void gravar() throws IOException {
+        String produto = null;
+    	FileWriter grava = new FileWriter("c:\\teste/ArqInteiro.txt");
+		grava.write(produto);
+		grava.close();
+    }
 
     private void editar() {
         System.out.println("Digite o Código do Produto para Atualizar: ");
