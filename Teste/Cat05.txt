@@ -1,0 +1,449 @@
+963	Leche entera 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+964	Mantequilla con sal 250 g	Colun	0.0	1990.0	2379.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	389.0	0.593	1.0
+965	Leche en Polvo Nido Entera 1500g	Nido	12149.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+966	Leche semidescremada 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+967	Yoghurt batido sabor frutilla 120 g	Soprole	229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+968	Leche descremada 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+969	Mantequilla con sal 250 g	Soprole	2459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+970	Leche entera natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+971	Huevos extra grandes blancos bandeja 20 un.	Cuisine & Co	4169.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+972	Huevos grandes blancos 12 un.	Cintazul	2479.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+973	Mantequilla con sal 250 g	Los Alerces	2259.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+974	Jalea frambuesa 100 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+975	Yoghurt Batido Nestlé Frutilla 115g	Nestlé	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+976	Leche semidescremada 1 L	Colun	999.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+977	Yoghurt Batido Nestlé Vainilla 115g	Nestlé	0.0	215.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	-215.0	-0.328	1.0
+978	Margarina con sal 500 g	Qualy	1989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+979	Yoghurt natural no endulzado 120 g	Colun	355.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+980	Yoghurt batido light frutilla 125 g	Colun	275.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+981	Huevos grandes blancos bandeja 12 un.	Cuisine & Co	2429.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+982	Leche semidescremada sabor chocolate 1 L	Colun	1439.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+983	Yoghurt batido sabor damasco 120 g	Soprole	229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+984	Jalea limón 100 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+985	Yoghurt batido multipack tradicional 12 x 115 g	Nestlé	2589.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+986	Jalea guinda 100 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+987	Yoghurt batido light vainilla 125 g	Colun	275.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+988	Huevos grandes blancos Santa Marta 12 unid	Santa Marta	0.0	2050.0	2349.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	299.0	0.456	1.0
+989	Leche semidescremada sin lactosa Loncoleche 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+990	Leche descremada sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+991	Postre Manjarate 80 g	Soprole	609.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+992	Leche descremada 1 L	Colun	999.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+993	Leche sin lactosa semidescremada 1 L	Cuisine & Co	989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+994	Mantequilla con sal 125 g	Colun	1269.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+995	Yoghurt sin azúcar frutilla 120 g	Soprole	305.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+996	Leche semidescremada natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+997	Yoghurt con cereal Zucaritas 140 g	Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	-615.0	-0.938	1.0
+998	Pack 6 un. Leche semidescremada chocolate 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+999	Mantequilla Los Alerces 125 g	Los Alerces	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1000	Yoghurt Batido Nestlé Damasco 115g	Nestlé	0.0	215.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	-215.0	-0.328	1.0
+1001	Yoghurt batido light frambuesa 125 g	Colun	275.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1002	Yoghurt batido natural 155 g	Soprole	0.0	369.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	1	-369.0	-0.563	1.0
+1003	Jalea Nestlé Frambuesa 110g	Nestlé	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1004	Yoghurt light sin lactosa sabor chirimoya 125 g	Colun	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1005	Yoghurt con cereal Choco Krispis 140 g	1+1 Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-615.0	-0.938	1.0
+1006	Yoghurt con mini galletas 140 g	Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-615.0	-0.938	1.0
+1007	Pack 6 un. Yoghurt batido con bombilla frutilla 115 g	Soprole	2089.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1008	Pack 12 un. Probiótico defensas con bombilla sabor frutilla 80 ml	Soprole	3649.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1009	Yoghurt batido frutilla 125 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1010	Jalea Nestlé Piña 110g	Nestlé	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1011	Yoghurt batido semidescremado vainilla 120 g	Calan	209.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1012	Yoghurt batido multipack berries 12 x 115 g	Nestlé	2589.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1013	Yoghurt batido vainilla 125 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1014	Leche descremada sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1015	Yoghurt batido semidescremado frutilla 120 g	Calan	209.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1016	Yoghurt griego natural 110 g	Oikos	349.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1017	Leche semidescremada chocolate Receta original 1 L	Colun	1439.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1018	Pack 12 un. Leche entera 1 L	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1019	Leche semidescremada sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1020	Yoghurt proteína frutilla 155 g	Soprole	579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1021	Yoghurt batido natural 150 g	Oikos	445.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1022	Yoghurt sin azúcar vainilla 120 g	Soprole	305.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1023	Yoghurt batido mora 125 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1024	Yoghurt batido sabor frambuesa 120 g	Soprole	229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1025	Margarina mix pote 500 g	Cuisine & Co	0.0	2390.0	2749.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	359.0	0.548	1.0
+1026	Yoghurt Batido Nestlé Frambuesa 115g	Nestlé	0.0	215.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-215.0	-0.328	1.0
+1027	Postre Chandelle Crema sabor chocolate 130g	Nestlé	0.0	679.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-679.0	-1.036	1.0
+1028	Leche semidescremada chocolate 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-1519.0	-2.317	1.0
+1029	Flan vainilla con salsa de caramelo 120 g	Soprole	0.0	345.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-345.0	-0.526	1.0
+1030	Yoghurt 1+1 de 155 g	Soprole	0.0	469.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-469.0	-0.715	1.0
+1031	Leche entera sin lactosa 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1032	Sémola con Leche Nestlé Salsa de Caramelo 135g	Nestlé	585.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1033	Yoghurt batido semidescremado chirimoya 120 g	Calan	209.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1034	Pack 6 un. Yoghurt batido con bombilla vainilla 155 g	Soprole	2089.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1035	Yoghurt batido frutilla 1 kg	Colun	0.0	1589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	-1589.0	-2.424	1.0
+1036	Yoghurt batido sin lactosa vainilla 120 g	Soprole	309.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1037	Pack 6 un. Leche semidescremada chocolate 200 ml	Colun	2790.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1038	Pack 6 un. Leche semidescremada frutilla 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1039	Flan Colun Vainilla 100 g	Colun	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1040	Huevos grandes color bandeja 12 un.	Cuisine & Co	2469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1041	Margarina 500 g	Soprole	1859.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1042	Yoghurt batido sin lactosa frutilla 125 g	Colun	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1043	Huevos extra grandes color bandeja 20 un.	Cuisine & Co	4459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1044	Yoghurt proteína frutilla 140 g	Loncoleche	549.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1045	Yoghurt Batido Light Danone Frutilla 115 g	Light & Free	0.0	279.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-279.0	-0.426	1.0
+1046	Yoghurt batido vainilla 1 kg	Colun	0.0	1589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-1589.0	-2.424	1.0
+1047	Yoghurt Batido Light Danone Natural con Endulzante 115 g	Light & Free	0.0	279.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-279.0	-0.426	1.0
+1048	Yoghurt proteína natural endulzado 140 g	Loncoleche	549.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1049	Pack 12 un. Yoghurt batido 125 g	Colun	2869.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1050	Mantequilla sin sal 250 g	Colun	2499.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1051	Yoghurt trozos frutos secos y fruta 165 g	Soprole	0.0	725.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-725.0	-1.106	1.0
+1052	Petit suisse Chiquitín Frutilla 45g	Nestlé	269.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1053	Mantequilla con sal 125 g	Soprole	1299.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1054	Yoghurt Protein Plus frutilla-plátano 150 g	Colun	0.0	589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-589.0	-0.899	1.0
+1055	Yoghurt proteína natural endulzado 155 g	Soprole	579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1056	Leche en polvo entera 900 g	Colun	5389.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1057	Jalea Nestlé Guinda 110g	Nestlé	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1058	Yoghurt batido light damasco 125 g	Colun	275.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1059	Bebida láctea Chamyto multipack frutilla 12 un. 80 ml	Nestlé	3929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1060	Flan manjar Colun 100 g	Colun	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1061	Huevos color gallina libre 12 un.	Cuisine & Co	3129.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1062	Sémola con leche y salsa de caramelo 140 g	Soprole	0.0	605.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-605.0	-0.923	1.0
+1063	Postre Chandelle Crema manjar 130g	Nestlé	0.0	679.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-679.0	-1.036	1.0
+1064	Mantequilla sin sal 250 g	Soprole	0.0	1990.0	2339.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	349.0	0.532	1.0
+1065	Mantequilla 200 g	Colun	2629.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1066	Yoghurt proteína chirimoya 155 g	Soprole	579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1067	Leche descremada natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1068	Yoghurt Protein Plus frutilla 150 g	Colun	0.0	589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	-589.0	-0.899	1.0
+1069	Yoghurt batido light natural endulzado 125 g	Colun	275.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1070	Margarina canola pote 400 g	Cuisine & Co	1989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1071	Leche descremada sin lactosa Loncoleche 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1072	Yoghurt sin azúcar durazno 120 g	Soprole	305.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1073	Pack 12 un. Leche semidescremada 1 L	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1074	Yoghurt batido Colun damasco 125 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1075	Manteca 200 g	Astra	1339.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1076	Pack 6 un. Leche chocolate 200 ml	Cuisine & Co	2094.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1077	Leche entera sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1078	Pack 12 un. Leche semidescremada sin tapa 1 L	Colun	11988.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1079	Flan Colun sabor chocolate 100 g	Colun	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1080	Leche en polvo entera 1440 g	Colun	8969.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1081	Pack 5 un. Yoghurt con cereales 140 g	Soprole	2939.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1082	Pack 12 un. leche descremada 1 L c/u	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1083	Margarina Deline pote 500 g	Deline	1389.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1084	Leche semidescremada sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1085	Postre Sahne Nuss Mousse de chocolate 100g	Sahne Nuss	669.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1086	Yoghurt griego light papaya Quillayes 110 g	Quillayes	405.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1087	Leche semidescremada frutilla 1 L	Colun	1449.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1088	Pack 12 un. Leche entera 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1089	Yoghurt con trozos de fruta Danone frutos del Bosque 150 g	Oikos	559.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1090	Manteca 200 g	Crucina	1329.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1091	Bebida láctea multipack frambuesa 12 un. 80 ml	Chamyto	3929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1092	Mantequilla con sal 250 g	Quillayes	2479.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1093	Yoghurt batido chirimoya 1 kg	Calan	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1094	Mantequilla con sal de mar 250 g	Soprole	2389.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1095	Postre Nestlé Leche Asada 120g	Nestlé	569.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1096	Mantequilla untable 200 g	Soprole	2829.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1097	Yoghurt semidescremado sin lactosa trozo berries 120 g	Loncoleche	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1098	Yoghurt proteína con cereales 150 g	Soprole	599.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1099	Leche chocolate 1 L	Cuisine & Co	1279.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1100	Yoghurt batido frambuesa 125 g	Colun	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1101	Yoghurt Batido Chamyto Probióticos Frutilla 115g	Chamyto	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1102	Huevos medianos blancos bandeja 30 un.	Cuisine & Co	5719.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1103	Jalea Nestlé Naranja 110g	Nestlé	315.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1104	Leche Trencito Chocolate Multipack 6x200ml	Nestlé	2850.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1105	Leche semidescremada sin lactosa chocolate 1 L	Soprole	1449.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1106	Leche semidescremada sabor chocolate 200 ml	Colun	465.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1107	Leche cultivada light chirimoya 1 L	Next	0.0	1999.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-1999.0	-3.049	1.0
+1108	Leche semidescremada frutilla 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-1519.0	-2.317	1.0
+1109	Yoghurt batido frutilla 1 kg	Calan	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1110	Flan de caramelo Postres de la Abuela 120 g	Soprole	0.0	345.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-345.0	-0.526	1.0
+1111	Pack 6 un. Leche sin lactosa semidescremada chocolate 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1112	Leche descremada sin lactosa 1 L	Soprole	1129.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1113	Pack 6 un. Leche semidescremada sin lactosa 1 L	Surlat	6534.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1114	Yoghurt batido frutilla 1 kg	Soprole	1469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1115	Petit suisse Chiquitín Plátano 45g	Nestlé	269.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1116	Leche en polvo descremada 800 g	Colun	5389.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1117	Yoghurt batido Colun damasco 1 kg	Colun	0.0	1589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-1589.0	-2.424	1.0
+1118	Yoghurt proteína maracuyá 155 g	Soprole	579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1119	Yoghurt proteína vainilla 155 g	Soprole	579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1120	Leche extra proteína 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1121	Yoghurt Batido Colun Frambuesa 1 kg	Colun	0.0	1589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-1589.0	-2.424	1.0
+1122	Leche cultivada light frambuesa 1 L	Next	0.0	1999.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	4	-1999.0	-3.049	1.0
+1123	Mantequilla con sal 250 g	Calo	2479.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1124	Yoghurt griego light berries Quillayes 110 g	Quillayes	405.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1125	Sémola con leche y salsa de frambuesa 140 g	Soprole	0.0	605.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-605.0	-0.923	1.0
+1126	Jalea frambuesa 110 g	Soprole	0.0	335.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-335.0	-0.511	1.0
+1127	Leche Loncoleche cappucino proteína 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1128	Huevos grandes blancos Cintazul 30 unid	Cintazul	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1129	Yoghurt semidescremado sin lactosa trozo papaya 120 g	Loncoleche	425.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1130	Yoghurt Protein Plus vainilla 150 g	Colun	0.0	589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-589.0	-0.899	1.0
+1131	Compota Nestlé Manzana 120g	Nestlé	405.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1132	Postre panna cotta salsa de frambuesa 120 g	Soprole	619.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1133	Yoghurt batido Calan 110 g 12 unid	Calan	2079.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1134	Leche entera 1 L	Surlat	989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1135	Leche en polvo entera 900 g	Nido	7199.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1136	Margarina Mix 500 g	Sureña	3069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1137	Pack 12 un. Probiótico defensas sabor multifruta 80 ml	Soprole	4049.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1138	Pack 6 un. Leche descremada sin lactosa 1 L	Surlat	6534.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1139	Leche semidescremada sabor vainilla 1 L	Colun	1449.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1140	Yoghurt trozos chocolate y almendras 165 g	Soprole	0.0	725.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-725.0	-1.106	1.0
+1141	Yoghurt + Cereal Nestlé Chocapic 142g	Nestlé	0.0	565.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-565.0	-0.862	1.0
+1142	Margarina1 kg	Pamperita	2929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1143	Yoghurt batido light natural 900 g	Light & Free	1749.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1144	Yoghurt batido vainilla 1 kg	Calan	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1145	Yoghurt trozos frutilla 165 g	Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	-615.0	-0.938	1.0
+1146	Margarina Bonella Sabor Mantequilla Pote 500 g	Bonella	2579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1147	Margarina Sureña 500 g	Sureña	0.0	2103.0	2629.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	526.0	0.802	1.0
+1148	Yoghurt griego light frutilla Quillayes 110 g	Quillayes	405.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1149	Leche semidescremada 1 L	Surlat	989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1150	Pack 6 un. Leche chocolate receta original 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1151	Compota Nestlé Pera 120g	Nestlé	405.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1152	Leche descremada 1 L	Surlat	989.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1153	Flan Nestlé Vainilla 110g	Nestlé	329.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1154	Huevos color gallina libre 20 un.	Cuisine & Co	5349.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1155	Jalea piña 110 g	Soprole	335.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1156	Leche entera cremosa 1 L	Soprole	899.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1157	Yoghurt con trozos de fruta papaya 110 g	Oikos	459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1158	Leche proteína chocolate 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1159	Pack 6 un. Bebida láctea mora 200 ml	Yogu - Yogu	2934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1160	Yoghurt + Cereal Nestlé Chocapic + Zucosos multipack 710g	Nestlé	2779.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1161	Huevos Grandes Color Santa Marta 12 unid	Santa Marta	2579.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1162	Leche en Polvo Svelty Descremada 800g	Svelty	6229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+1163	Yoghurt batido mora 1 kg	Colun	0.0	1589.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-1589.0	-2.424	1.0
+1164	Yoghurt griego trozos frutilla 110 g	Oikos	459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1165	Leche cultivada light frutilla 1 L	Next	0.0	1999.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-1999.0	-3.049	1.0
+1166	Postre Chandelle Crema sabor lúcuma 130g	Nestlé	0.0	679.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-679.0	-1.036	1.0
+1167	Yoghurt Batido Chamyto Probióticos Vainilla 115g	Chamyto	245.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1168	Postre Manjarate White 80 g	Soprole	609.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1169	Leche en Polvo Svelty Sin lactosa Descremada 800g	Svelty	8429.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1170	Yoghurt triple zero ciruela 120 g	Activia	375.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1171	Pack 12 un. Leche descremada sin lactosa 1 L	Loncoleche	11868.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1172	Pack 6 un. Leche saborizada individual chocolate 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1173	Yoghurt batido Loncoleche sin lactosa vainilla bolsa 900 g	Loncoleche	1879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1174	Postre Manjarate Black 80 g	Soprole	609.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1175	Pack 6 un. Probióticos mora 90 ml	Calan	1759.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1176	Yoghurt con trozos de fruta frutilla 150 g	Oikos	559.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1177	Yoghurt con trozos de fruta durazno 110 g	Oikos	459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1178	Petit suisse Chiquitín Frutilla multipack 12x45g	Chiquitín	3069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1179	Pack 12 un. Leche semidescremada 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1180	Leche entera sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1181	Leche en Polvo Nido Forticrece Sin lactosa 840g	Nido	10599.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1182	Yoghurt trozos durazno 165 g	Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-615.0	-0.938	1.0
+1183	Leche cultivada light 0% + fibra chirimoya 1 L	Colun	1819.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1184	Yoghurt batido light frutilla 1 kg	Colun	1689.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1185	Pack 12 un. Leche sin lactosa semidescremada 1 L	Cuisine & Co	11868.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1186	Mantequilla untable con sal 350 g	Calo	3549.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1187	Pack 6 un. Leche light chocolate 200 ml	Colun	2970.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1188	Postre del sur chocolate 95 g	Colun	0.0	495.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-495.0	-0.755	1.0
+1189	Pack 12 un. Leche descremada sin tapa 1 L	Colun	11988.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1190	Postre del sur tres leches 95 g	Colun	0.0	495.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-495.0	-0.755	1.0
+1191	Leche Break sin lactosa cappuccino 1 L	Loncoleche	1929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1192	Saborizante para Leche Nestlé cacao endulzado 230g	Nestlé	0.0	2249.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-2249.0	-3.431	1.0
+1193	Leche semidescremada sabor manjar 1 L	Colun	1449.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1194	Yoghurt light batido Danone arándano 115 g	Danone	0.0	279.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-279.0	-0.426	1.0
+1195	Yoghurt proteína trozos frutilla 155 g	Soprole	0.0	675.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-675.0	-1.03	1.0
+1196	Yoghurt proteína trozos frambuesa 155 g	Soprole	0.0	675.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	-675.0	-1.03	1.0
+1197	Leche semidescremada chocolate 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1198	Yoghurt light and free vainilla bolsa 900 g	Danone	1749.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1199	Margarina light 250 g	Next	1039.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1200	Pack 12 un. Probiótico defensas sabor frutilla 80 ml	Soprole	4049.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1201	Leche semidescremada sin lactosa 1 L	Soprole	1129.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1202	Yoghurt batido light vainilla 1 kg	Colun	1689.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+1203	Leche cultivada proteína frutilla 1 L	Soprole	2329.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1204	Leche chocolate 200 ml	Cuisine & Co	349.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1205	Leche en polvo descremada 350 g	Colun	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1206	Leche cultivada light 0% + fibra frutilla 1 L	Colun	1819.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1207	Leche polvo sin lactosa 800 g	Loncoleche	7899.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1208	Leche light chocolate 200 ml	Colun	495.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1209	Yoghurt Goodnes Sabor Frutilla 140g	Nestlé	469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1210	Levadura fresca 38 g	Lefersa	449.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1211	Yoghurt batido frutilla 1 kg	Soprole	2069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1212	Yoghurt triple zero frutos rojos 150 g	Activia	555.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1213	Yogurt sin lactosa frutilla 900 g	Loncoleche	1879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1214	Pack 6 un. Leche proteína chocolate 200 ml	Soprole	3090.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1215	Leche polvo descremada 800 g	Calo	5249.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1216	Yoghurt proteína mango maracuyá trozos 140 g	Loncoleche	655.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1217	Yoghurt batido sin lactosa frutilla 1 kg	Soprole	1690.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1218	Leche receta original chocolate 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-1519.0	-2.317	1.0
+1219	Mantequilla de campo 250 g	Kumey	2999.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1220	Levadura fresca 38 g	Collico	409.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1221	Petit suisse Chiquitín Damasco 45g	Nestlé	269.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1222	Yoghurt Goodnes Natural endulzado 140g	Nestlé	469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1223	Yoghurt proteína trozos mango maracuyá 155 g	Soprole	0.0	675.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-675.0	-1.03	1.0
+1224	Pack 6 un. Leche descremada 200 ml	Colun	2574.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1225	Sémola con leche y salsa de damasco 140 g	Soprole	0.0	605.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-605.0	-0.923	1.0
+1226	Pack 6 un. Leche semidescremada 1 L	Surlat	5934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1227	Leche semidescremada Loncoleche sabor chocolate 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-485.0	-0.74	1.0
+1228	Leche descremada 200 ml	Colun	429.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1229	Mantequilla 250 g	Santa Isabel	2139.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1230	Yoghurt vegetal soya trozos mango maracuyá 140 g	Loncoleche	0.0	515.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-515.0	-0.786	1.0
+1231	Yoghurt batido damasco 1 kg	Soprole	1469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1232	Margarina Mix con mantequilla 500 g	Soprole	2929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1233	Leche Cultivada Colun Light con Fibra Chirimoya 180 cc	Colun	485.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1234	Postre Chandelle sin lactosa manjar 130 g	Nestlé	0.0	719.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-719.0	-1.097	1.0
+1235	Pack 6 un. Bebida láctea frutilla 200 ml	Yogu - Yogu	2934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1236	Leche capuccino light sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1237	Yoghurt con trozos de fruta Danone colchón de frutas papaya 150 g	Oikos	559.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1238	Pack 6 un. Leche entera	Surlat	5934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1239	Leche semidescremada frutilla 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1240	Yoghurt trozos piña 165 g	Soprole	615.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	0.0	0.0	1.0
+1241	Postre del sur manjar 95 g	Colun	0.0	495.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-495.0	-0.755	1.0
+1242	Leche semidescremada sin lactosa Loncoleche chocolate 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	7	-485.0	-0.74	1.0
+1243	Huevos grandes color 12 un.	Cintazul	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1244	Leche en Polvo Nido Forticrece Sin lactosa 1440g	Nido	0.0	14550.0	18899.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	4349.0	6.634	1.0
+1245	Mantequilla con sal 250 g	Surlat	2289.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1246	Yoghurt trozo triple zero chía frutilla 120 g	Activia	0.0	445.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-445.0	-0.679	1.0
+1247	Manteca Delicias 1 kg	Soprole	3929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1248	Alimento de Avena Nestlé Veggie Probióticos Frutilla 140g	Nestlé	619.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1249	Bebida láctea Chamyto multipack tutti-frutti 6 un. 80 ml	Nestlé	2039.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1250	Margarina Light Sureña 500 g	Sureña	0.0	2071.0	2589.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	518.0	0.79	1.0
+1251	Margarina sin lactosa 500 g	Loncoleche	3079.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1252	Leche cultivada sin lactosa chirimoya 1 L	Zerolacto	2219.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1253	Leche capuccino sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1254	Pack 12 un. Leche descremada 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1255	Postre Prestigio Mousse 80g	Nestlé	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1256	Yoghurt batido vainilla 1 kg	Soprole	2069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1257	Pack 4 un. Jalea frambuesa 100 g	Regimel	1779.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1258	Leche semidescremada plátano 1 L	Loncoleche	1489.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1259	Yoghurt sin azúcar chía trozos arándano 155 g	Soprole	575.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1260	Yoghurt griego light berries 120 g	Colun	495.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1261	Pack 6 un. Leche sin lactosa descremada 200 ml	Colun	2910.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1262	Yoghurt vegetal almendra natural endulzado 140 g	Loncoleche	0.0	515.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-515.0	-0.786	1.0
+1263	Margarina 1 kg	Sureña	4849.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1264	Pack 12 un. Leche semidescremada sin lactosa 1 L	Loncoleche	13908.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1265	Leche Danone Moments Cappuccino 1 L	Danone	1829.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1266	Yoghurt batido sin lactosa chirimoya 120 g	Zerolacto	309.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1267	Yoghurt proteína berries trozos 140 g	Loncoleche	655.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1268	Leche polvo instantánea 26 mg 900 g	Calo	5419.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1269	Mantequilla con sal 125 g	Calo	1269.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1270	Postre crème caramel 120 g	Soprole	619.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1271	Yoghurt + cereal Nestlé Trix 142g	Nestlé	0.0	565.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-565.0	-0.862	1.0
+1272	Yoghurt vegetal soya trozos frutilla 140 g	Loncoleche	0.0	515.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-515.0	-0.786	1.0
+1273	Yoghurt trozos lúcuma y nueces 165 g	Soprole	0.0	725.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-725.0	-1.106	1.0
+1274	Pack 6 un. Leche moments cappuccino 200 ml	Danone	3174.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1275	Jalea guinda 110 g	Soprole	0.0	335.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	-335.0	-0.511	1.0
+1276	Yoghurt Goodnes Sabor Vainilla 140g	Nestlé	469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1277	Pack 6 un. Leche descremada 1 L	Surlat	5934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1278	Leche cultivada sin lactosa frutilla 1 L	Zerolacto	2219.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1279	Pack 3 un. Leche cappuccino sin lactosa 330 ml	Colun	2637.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1280	Huevos grandes color Omega 3 12 unid	Omega 3	2899.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1281	Yoghurt + Cereal Nestlé Chocapic+ Milo multipack 5x142g	Nestlé	2779.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1282	Postre panna cotta caluga 120 g	Soprole	619.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	8	0.0	0.0	1.0
+1283	Pack 12 un. Leche descremada sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1284	Pack 12 un. Leche chocolate receta original 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1285	Leche semidescremada Loncoleche sin lactosa chocolate 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1286	Leche semidescremada 200 ml	Colun	429.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1287	Leche proteína chocolate 1 L	Soprole	2069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1288	Notmilk chocolate 200 ml	Not Milk	0.0	639.0	799.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	160.0	0.244	1.0
+1289	Jalea naranja 110 g	Soprole	335.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1290	Margarina light pote 500 g	Bonella	2489.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1291	Leche polvo semi descremada 800 g	Calo	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1292	Leche semidescremada sin lactosa chocolate 200 ml	Zerolacto	445.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1293	Pack 12 un. Leche entera sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1294	Saborizante para leche Nesquik Vainilla Bolsa 380g	Nesquik	2349.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1295	Mantequilla vegetal 227 g	Bonella	2190.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1296	Pack 6 un. Leche chocolatada 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1297	Yoghurt griego light frutilla 120 g	Colun	0.0	495.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	-495.0	-0.755	1.0
+1298	Pack 6 un. Bebida láctea chirimoya 200 ml	Yogu - Yogu	2934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1299	Huevo grande de gallina libre 12 un.	Cintazul	3149.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1300	Yoghurt con trozos de fruta Danone coco rallado 110 g	Oikos	459.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1301	Pack 12 un. Leche semidescremada sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1302	Yoghurt batido damasco 1 kg	Soprole	2069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1303	Pack 12 un. Leche natural sin lactosa 1 L	Loncoleche	13908.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1304	Pack 4 un. Jalea arándano 100 g	Regimel	1779.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1305	Pack 12 un. Leche chocolate 1 L	Colun	17268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1306	Leche Break sin lactosa chocolate y avellana 1 L	Loncoleche	1929.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1307	Pack 6 un. Probiótico defensas sabor frutilla 80 ml	Soprole	2119.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1308	Leche sin lactosa frutilla 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1309	Yoghurt trozos nueces y cranberries 165 g	Soprole	0.0	725.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	-725.0	-1.106	1.0
+1310	Leche Moments cappuccino 200 ml	Danone	585.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1311	Leche semidescremada chocolate blanco 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	-1519.0	-2.317	1.0
+1312	Pack 6 un. Leche chocolate 1 L	Cuisine & Co	7674.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1313	Saborizante para leche Nesquik Chocolate Sin Azúcar Añadida Tarro 350g	Nesquik	3769.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1314	Levadura fresca 500 g	Lefersa	2329.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1315	Mantequilla de campo 230 g	San Ignacio	3069.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1316	Pack 3 un. Leche light cappuccino prisma 330 ml	Colun	2637.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1317	Yogurt Triple Zero natural 900 g	Activia	2179.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1318	Leche receta original chocolate 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1319	Yogurt Activia sin lactosa Bolsa 900g	Activia	2179.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1320	Yoghurt griego proteína durazno	Quillayes	455.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1321	Leche Protein Full Pro vainilla 250 ml	Loncoleche	1389.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1322	Pack 12 un. Yoghurt frutilla, damasco y vainilla 120 g	Soprole	2839.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	9	0.0	0.0	1.0
+1323	Leche descremada sin lactosa 200 ml	Colun	485.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1324	Huevos de codorniz 24 un.	Cuisine & Co	2919.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1325	Leche café caramelo sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1326	Bebida láctea Yogu Yogu sabor mora 200 ml	Yogu - Yogu	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1327	Leche proteína chocolate 200 ml	Soprole	515.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1328	Leche Trencito Chocolate 200ml	Nestlé	0.0	399.0	475.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	76.0	0.116	1.0
+1329	Yoghurt batido sin lactosa chirimoya 1 kg	Soprole	1690.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1330	Pack 6 un. Bebida láctea damasco 200 ml	Yogu - Yogu	2934.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1331	Alimento de Avena Nestlé Veggie Probióticos Natural 140g	Nestlé	619.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1332	Pack 6 un. Leche saborizada individual vainilla 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1333	Pack 6 un. Leche moments moca 200 ml	Danone	3174.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1334	Yoghurt sin lactosa trozos frutilla 155 g	Soprole	605.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1335	Pack 6 un. Leche semidescremada sin lactosa 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1336	Leche semidescremada Loncoleche sabor chocolate 1 L	Loncoleche	1489.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1337	Pack 3 un. Leche caramelo prisma 330 ml	Colun	2637.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1338	Leche saborizada Danone Moments Moca 200 ml	Danone	585.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1339	Bebida láctea Yogu Yogu sabor frutilla 200 ml	Yogu - Yogu	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1340	Leche Milo 200ml	Nestlé	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1341	Bebida láctea Máxima 800 g	Máxima MP	3160.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1342	Yoghurt natural 0% pote 800 g	Quillayes	2479.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1343	Pack 6 un. Bebida láctea manjar 170 ml	Shake A Shake Lonco Leche	2994.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1344	Bebida láctea Yogu Yogu sabor chirimoya 200 ml	Yogu - Yogu	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1345	Pack 12 un. Leche chocolate sin tapa 1 L	Colun	17268.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1346	Pack 12 un. Leche semidescremada chocolate 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1347	Pack 6 un. Leche semidescremada 200 ml	Colun	2574.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1348	Leche en Polvo Ideal Instantánea 900g	Ideal	5189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1349	Leche proteína semidescremada natural 1 L	Soprole	1829.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1350	Pack 12 un. Leche extra proteína 1 L	Loncoleche	19788.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1351	Mantequilla sin lactosa 250 g	Surlat	2879.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1352	Pack 6 un. Probióticos frutilla 90 ml	Calan	1759.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1353	Pack 6 un. Bebida láctea manzana 80 ml	Nestlé	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1354	Leche descremada sin lactosa Loncoleche extra calcio 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1355	Leche semidescremada sin lactosa Loncoleche 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	-485.0	-0.74	1.0
+1356	Pack 6 un. Bebida láctea chocolate 170 ml	Shake A Shake Lonco Leche	2994.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1357	Margarina untable aceite oliva 250 g	Loncoleche	2229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1358	Yoghurt trozos manzana pera 165 g	Soprole	0.0	615.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	-615.0	-0.938	1.0
+1359	Bebida Láctea Loncoleche Shake Shake sabor Manjar 170 cc	Loncoleche	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1360	Yoghurt light Colun sin lactosa chirimoya 1 kg	Colun	1889.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1361	Huevo grande La Granja, color, 12 unid.	La Granja	3229.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	0.0	0.0	1.0
+1362	Leche vainilla 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	10	-485.0	-0.74	1.0
+1363	Leche en Polvo Nido Etapa 5+ Tarro 1600g	Nido	16190.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1364	Pack 6 un. Bebida láctea frambuesa 80 ml	Nestlé	2039.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1365	Leche en Polvo Svelty Colágeno Sin Lactosa 500g	Svelty	7999.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1366	Huevos extra blancos 12 un.	Cintazul	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1367	Margarina light 500 g	Calo	1889.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1368	Pack 6 un. Bebida láctea natural 80 ml	Nestlé	2039.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1369	Leche Cultivada Colun Light con Fibra Frutilla 180 ml	Colun	485.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1370	Yoghurt batido vainilla 1 kg	Soprole	1469.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1371	Pack 12 un. Leche semidescremada frutilla 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1372	Leche culivada vainilla 1 L	Soprole	1979.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1373	Bebida láctea Yogu Yogu sabor damasco 200 ml	Yogu - Yogu	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1374	Yoghurt light Colun sin lactosa frutilla 1 kg	Colun	1889.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1375	Pack 12 un. Leche saborizada frutilla 1 L	Colun	17388.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1376	Yoghurt Protein Plus probiótico frutilla 130 g	Colun	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1377	Pack 12 un. Leche sin lactosa chocolate 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1378	Pack 12 un. Leche saborizada vainilla 1 L	Colun	17388.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1379	Pack 12 un. Leche sin lactosa extra calcio 1 L	Loncoleche	16788.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1380	Leche polvo extra calcio descremada 800 g	Calo	6769.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1381	Pack 12 un. Leche sin lactosa frutilla 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1382	Bocado con salsa de chocolate 120 g	Soprole	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1383	Bocado con salsa de berries 120 g	Soprole	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1384	Pack 12 un. Leche saborizada manjar 1 L	Colun	17388.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1385	Pack 12 un. Leche saborizada plátano 1 L	Loncoleche	17388.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1386	Leche sin lactosa light chocolate 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1387	Leche cultivada probiótico y vitamina D frutilla 1 L	Soprole	0.0	1900.0	2279.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	379.0	0.578	1.0
+1388	Yoghurt trozos berries pote 800 g	Quillayes	2669.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1389	Pack 12 un. Leche saborizada light chocolate 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1390	Leche cultivada probiótico y vitamina D chirimoya 1 L	Soprole	0.0	1900.0	2279.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	379.0	0.578	1.0
+1391	Yoghurt griego natural 400 g	Quillayes	1189.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1392	Mantequilla ultra light Quillayes 200 g	Quillayes	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1393	Saborizante para leche Nestlé Cacao Dark 230g	Nestlé	3599.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1394	Bebida Láctea Loncoleche Shake Shake sabor Chocolate 170 cc	Loncoleche	505.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1395	Yoghurt griego proteína berries	Quillayes	455.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1396	Cacao dulce en polvo 200 g	Marco Polo	759.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1397	Leche descremada light Loncoleche sabor chocolate 1 L	Loncoleche	1589.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1398	Yoghurt probiótico y vitamina D frutilla 120 g	Soprole Activ	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1399	Yoghurt probiótico y vitamina D chirimoya 120 g	Soprole Activ	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1400	Nargarina con sal 1 kg	Qualy	3779.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1401	Yoghurt light & fre SKYR berries 140 g	Danone	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1402	Yoghurt Goodnes Skyr Frutilla 140g	Nestlé	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	11	0.0	0.0	1.0
+1403	Yoghurt light & fre SKYR durazno 140 g	Danone	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1404	Huevos Plus Omega 3 6 unid	Omega 3	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1405	Cocoa dulce en polvo 200 g	Copacabana	939.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1406	Yoghurt probiótico y vitamina D vainilla 120 g	Soprole Activ	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1407	Mantequilla vegetal aceite coco 125 g	Signore Mario	3099.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1408	Pack 12 un. Leche saborizada chocolate 1 L	Loncoleche	17388.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1409	Leche cultivada light 0% + fibra frutilla 1 L	Colun	0.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1410	Chocolate en polvo 800 g	Base Culinar	3999.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0
+1411	Yogurt Triple Zero durazno 150 g	Activia	555.0	0.0	0.0	0	lacteos	lacteos	2022-07-16 22:11:26.364649	1 un	1	12	0.0	0.0	1.0

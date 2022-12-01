@@ -1,0 +1,240 @@
+1	Pasta dental Ultra Blanco 3 un. 90 g c/u	Colgate	0.0	2590.0	3249.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	659.0	1.005	1.0
+2	Pasta dental triple 3 un. 90 g	Pepsodent	0.0	2790.0	2979.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	189.0	0.288	1.0
+3	Jabón líquido Dermo Care avena doypack 750 ml	Simond'S	1549.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+4	Jabón líquido original 700 ml	Dove	0.0	2659.0	3549.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	890.0	1.358	1.0
+5	Pasta dental Xtra Whitening 3 un. 90 g	Pepsodent	0.0	2135.0	2979.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	844.0	1.288	1.0
+6	Jabón líquido cremoso doypack 1.5 L	Bellekiss	1859.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+7	Jabón barra original 3 un. de 90 g	Dove	0.0	2659.0	3659.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	1000.0	1.525	1.0
+8	Jabón Dermo Care Hygienic 750 ml	Simond'S	1549.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+9	Jabón líquido avena doypack 1.5 L	Bellekiss	1859.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+10	Toallas higiénicas Nosotras Buenas Noches normal 20 un.	Nosotras	2890.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+11	Pasta dental Triple Acción menta original 3 un. 75 ml c/u	Colgate	3490.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+12	Shampoo Hidra Hialurónico 370 ml	Elvive	0.0	3699.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	-3699.0	-5.643	1.0
+13	Jabón líquido coco vainilla doypack 1.5 L	Bellekiss	1859.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+14	Shampoo Manzanilla doypack 750 ml	Ballerina	0.0	1250.0	1659.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	409.0	0.624	1.0
+15	Shampoo 400 ml + Acondicionador Regeneración Extrema 400 ml	Dove	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+16	Pack 3 un. Pasta dental sabor menta 378 g	Aquafresh	0.0	2792.0	3490.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	698.0	1.065	1.0
+17	Toallas higiénicas Naturella con manzanilla 8 un.	Naturella	999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+18	Toallas higiénicas Naturella Cuidado Nocturno XL 8 un.	Naturella	1179.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+19	Pasta dental Max White crystal mint 3 un. 75 ml	Colgate	4499.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+20	Jabón líquido Dermo Care avena 1 L	Simond'S	2090.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+21	Toallas higiénicas Nosotras Normal suave 10 un.	Nosotras	999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+22	Shampoo Manzana y Papaya 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+23	Jabon líquido 700 ml	Elite	0.0	2099.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	-2099.0	-3.202	1.0
+24	Shampoo Vitaminados Frescura 350 ml	Fructis	0.0	2989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	-2989.0	-4.56	1.0
+25	Toallas higiénicas Always Seca Noche 16 un.	Always	2849.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+26	Pétalos desmaquilladores	Family Care	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+27	Desodorante Protection 5 spray 150 ml	BiO	0.0	1949.0	2599.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	650.0	0.992	1.0
+28	Toallas higiénicas Ladysoft nocturna ultraseca 16 un.	Ladysoft	0.0	2390.0	2959.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	569.0	0.868	1.0
+29	Shampoo Aloe Hidra Bomb 350 ml	Fructis	0.0	2989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	-2989.0	-4.56	1.0
+30	Shampoo Pro-V Hidratación Extrema 300 ml	Pantene	0.0	1990.0	2739.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	749.0	1.143	1.0
+31	Shampoo carbón frasco 750 ml	Ballerina	1530.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+32	Toallas higiénicas Nosotras Ultra Invisible malla 10 un.	Nosotras	1319.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+33	Shampoo + Acondicionador bomba variedades 340 ml c/u	Sedal	0.0	4290.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	-4290.0	-6.544	1.0
+34	Pack 3 un. Jabón en barra Le Sancy variedades 90 g c/u	Le Sancy	2179.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+35	Varitas de algodón Baby Tips 200 un.	Babyland	1599.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+36	Máquina de afeitar Prestobarba3 F1 roja 2 un.	Gillette	1999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+37	Protector diario Kotex tela 40 un.	Kotex	1490.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+38	Protectores diarios largos 30 un.	Nosotras	1379.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+39	Jabón líquido Dermo Care cremoso pH neutro 1 L	Simond'S	2090.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+40	Shampoo Quillay y Ortiga 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+41	Pasta dental Luminous White carbón activado 90 g	Colgate	0.0	2690.0	2890.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	200.0	0.305	1.0
+42	Toallas higiénicas Always Seca Ultrafina 24 un.	Always	0.0	2804.0	3299.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	495.0	0.755	1.0
+43	Shampoo Bambú 400 ml + Bálsamo 400 ml	Pantene	5090.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+44	Acondicionador Leche de Coco 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+45	Pasta dental Kids Mickey 50 g	Oral-B	1139.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+46	Desodorante barra Double Defense Floral Fresh 45 g	Lady Speed Stick	2999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+47	Pack pasta dental sabor menta 158 g 2 un.	Aquafresh	0.0	2543.0	3179.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	636.0	0.97	1.0
+48	Pasta dental Triple Acción menta original 2 un. 150 ml c/u	Colgate	3789.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+49	Jabón barra avena 3 un. 90 g c/u	Protex	2599.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+50	Pasta dental Triple Acción xtra blancura 3 un. 75 ml c/u	Colgate	0.0	2890.0	3590.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	700.0	1.068	1.0
+51	Jabón líquido karité 700 ml	Dove	0.0	2659.0	3549.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	890.0	1.358	1.0
+52	Jabón barra orchideas 3 un. 85 g	Nivea	2099.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+53	Protectores diarios todos los días 100 un.	Carefree	3499.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+54	Toallas higiénicas Ladysoft básicas sin alas 8 un.	Ladysoft	0.0	590.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-590.0	-0.9	1.0
+55	Pasta dental Triple Acción xtra frescura 3 un. 75 ml c/u	Colgate	0.0	2890.0	3590.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	700.0	1.068	1.0
+56	Shampoo Granada Uva 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+57	Shampoo Limpieza Renovadora 375 ml	Head & Shoulders	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+58	Jabón humectante barra 90 g 3 un.	Elite	0.0	2390.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-2390.0	-3.646	1.0
+59	Jabón barra avena 3 un. 85g	Nivea	2099.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+60	Shampoo Leche de Coco 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+61	Shampoo Herbolaria 400 ml	Tío Nacho	0.0	4990.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-4990.0	-7.612	1.0
+62	Toallas higiénicas Always Suave Ultrafina 16 un.	Always	2239.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+63	Desodorante Black & White máxima protección 50 ml	Nivea	0.0	2890.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-2890.0	-4.409	1.0
+64	Acondicionador Pro-V Hidratación 300 ml	Pantene	0.0	1990.0	2739.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	749.0	1.143	1.0
+65	Cepillo dental triple acción suave 2 un.	Colgate	2690.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+66	Desodorante spray Pro 5 1 91 g	Lady Speed Stick	0.0	2990.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-2990.0	-4.561	1.0
+67	Shampoo Pro-V Restauración 300 ml	Pantene	0.0	1990.0	2739.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	749.0	1.143	1.0
+68	Protectores diarios Ladysoft tela suave 100 un.	Ladysoft	3429.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+69	Pasta dental Kids Minnie 50 g	Oral-B	1139.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+70	Jabón Dermo Care Hygienic 1.5 L	Simonds	0.0	2190.0	2490.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	300.0	0.458	1.0
+71	Jabón en barra natural 100 g	Trianon	1150.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+72	Shampoo Oil Repair Liso Coco 350 ml	Fructis	0.0	2599.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-2599.0	-3.965	1.0
+73	Jabón líquido Dermo Care 1 L	Simond'S	2090.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+74	Toallas higiénicas Kotex nocturna Ultrafina tela suave con alas 15 un.	Kotex	0.0	2590.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-2590.0	-3.951	1.0
+75	Jabón original blanco barra 90 g	Dove	1739.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+76	Desodorante Aerosol Invisible Dry 150 ml	Dove Men	0.0	3459.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	-3459.0	-5.277	1.0
+77	Shampoo anticaspa pelo graso 2 un. 350 ml c/u	Linic	3999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+78	Cepillo dental Twister Fresh suave 2 un.	Colgate	2390.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+79	Desodorante barra Xtreme Tech Ultra 50 g	Speed Stick	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+80	Toallas higiénicas Nosotras Buenas Noches normal 8 un.	Nosotras	1339.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+81	Shampoo Arándano y Uva 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+82	Desodorante Clarify spray mujer 150 ml	BiO	0.0	1949.0	2599.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	650.0	0.992	1.0
+83	Sabanillas con tecnología gel 6 un. 90 x 60 cm c/u	Cotosan	3149.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+84	Jabón en barra Giselle 2 unid, 150 g c/u, nutrición	Giselle	1799.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+85	Shampoo Classic Smooth 400 ml	Herbal Essences	0.0	4599.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-4599.0	-7.016	1.0
+86	Desodorante crema Rexona Extra Dry 48 g	Rexona Clinical	0.0	4504.0	5299.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	795.0	1.213	1.0
+87	Protectores diarios Ladysoft largos suaves 30 un.	Ladysoft	1339.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+88	Jabón líquido mandarina 700 ml	Dove	0.0	2659.0	3549.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	890.0	1.358	1.0
+89	Protector diario Kotex 100 un.	Kotex	3199.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+90	Desodorante original femenino barra 50 g	Dove	3249.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+91	Pasta dental Total 12 anti sarro 90 g	Colgate	2820.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+92	Toallitas desmaquillantes Sensitive 30 un.	Family Care	1290.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+93	Desodorante barra Invisible Floral 45 g	Lady Speed Stick	2999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+94	Desodorante Original spray 150 ml	Dove	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+95	Shampoo manzana fresh 375 ml	Head & Shoulders	4159.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+96	Pasta dental Triple Acción xtra frescura 2 un. 90 g c/u	Colgate	3490.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+97	Protectores protección largos 20 40 Un.	Carefree	0.0	1970.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-1970.0	-3.005	1.0
+98	Desodorante spray invisible Black & White 150 ml	Nivea	0.0	2669.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-2669.0	-4.072	1.0
+99	Acondicionador Aloe Hidra Bomb 350 ml	Fructis	0.0	2989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-2989.0	-4.56	1.0
+100	Protectores protección con perfume 100 un.	Carefree	3659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+101	Jabón líquido humectante 700 ml	Elite	0.0	2390.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-2390.0	-3.646	1.0
+102	Shampoo ondas y rizos 750 ml	Ballerina	1590.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+103	Shampoo manzanilla 750 ml	Ballerina	1559.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+104	Jabón líquido castaña 500 ml	Simond'S	1759.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+105	Bálsamo ondas y rizos 750 ml	Ballerina	1590.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+106	Toallas higiénicas Nosotras Ultra Invisible malla 16 un.	Nosotras	0.0	1832.0	2290.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	458.0	0.699	1.0
+107	Cepillo dental mediano 2 un.	Dento	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+108	Bálsamo largo increible 750 ml	Ballerina	1559.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+109	Shampoo Reparación Total 5 370 ml	Elvive	0.0	3699.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-3699.0	-5.643	1.0
+110	Shampoo Daily Care limpieza profunda 410 ml	Simond'S	1699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+111	Toallas higiénicas Naturella Ultra con manzanilla 14 un.	Naturella	1979.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+112	Shampoo Anticaspa + Acondicionador Caspa Control 400 ml	Dove Men	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+113	Shampoo Color Vive 370 ml	Elvive	3989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+114	Acondicionador Oil Repair Liso Coco 350 ml	Fructis	0.0	2989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	-2989.0	-4.56	1.0
+115	Pañal adulto Tena Pants nocturno L 8 unid.	Tena	8199.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+116	Toallas higiénicas Nosotras Normal suave sin alas 10 un.	Nosotras	990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+117	Shampoo Colorvive Purple 200 ml	Elvive	3999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+118	Pasta dental Total 12 clean mint 3 un. 75 ml	Colgate	6790.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+119	Toallas higiénicas Kotex Ultrafina nocturna con alas 15 un.	Kotex	2590.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+120	Cepillo dental Twister Fresh medio 3 un.	Colgate	2849.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+121	Toallas higiénicas Nosotras Sensitiv ultra invisible 8 un.	Nosotras	1339.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+122	Toallas higiénicas Always Seca Noche ultrafina 8 un.	Always	1579.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+123	Shampoo liso 600 ml	Vanart	0.0	2690.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-2690.0	-4.104	1.0
+124	Desodorante barra aclarado Natural Classic Touch 43 g	Nivea	0.0	3199.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-3199.0	-4.88	1.0
+125	Shampoo aclarante doypack 400 ml	Tío Nacho	0.0	4990.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-4990.0	-7.612	1.0
+126	Jabón líquido cremoso Soft 750 ml	Nivea	2699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+127	Desodorante Black & White máxima protección 150 ml	Nivea	0.0	2890.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-2890.0	-4.409	1.0
+128	Enjuague bucal Cool Mint Zero alcohol 1 L	Listerine	7989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+129	Shampoo Vitaminados Brillo 350 ml	Fructis	0.0	2989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-2989.0	-4.56	1.0
+130	Cepillo dental plus suave 2 un.	Dento	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+131	Desodorante Protection 5 spray 150 ml	BiO	0.0	1949.0	2599.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	650.0	0.992	1.0
+132	Jabón Giselle líquido suavidad 750 ml	Giselle	1569.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+133	Bálsamo carbón frasco 750 ml	Ballerina	1530.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+134	Acondicionador Granada Uva 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+135	Acondicionador Pro-V restauración 300 ml	Pantene	0.0	1990.0	2739.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	749.0	1.143	1.0
+136	Enjuague Bucal Menta Fresca 500 cc	Oral Fresh	0.0	2393.0	3190.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	797.0	1.216	1.0
+137	Cepillo dental Tonny Dento 3+ extra suave 2 un.	Dento	2399.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+138	Shampoo Pro-V Rizos Definidos 300 ml	Pantene	0.0	1990.0	2889.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	899.0	1.371	1.0
+139	Acondicionador Manzanilla 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+140	Pañal adulto Pants G-XG 16 un.	Cotidian	0.0	13899.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-13899.0	-21.203	1.0
+141	Cepillo dental doble acción 6M 2 un.	Duralón	1699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+142	Acondicionador Smooth Rose Hips 400 ml	Herbal Essences	0.0	4599.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-4599.0	-7.016	1.0
+143	Cepillo dental Oral-B Indicator Extra Soft 2 un.	Oral-B	3290.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+144	Toallas higiénicas Kotex Ultrafina suave 24 un.	Kotex	0.0	2759.0	3090.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	331.0	0.505	1.0
+145	Cepillo dental Limpieza Profunda 2 un.	Oral-B	1899.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+146	Crema Tratamiento Oil Repair 3 aceites 300 g	Fructis	0.0	2499.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	-2499.0	-3.812	1.0
+147	Talco para pies 220 g + talco 80 g	Brooks	4769.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+148	Pack hilo dental 2 un. 50 m c/u	Colgate	4290.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+149	Jabón íntimo Sensitiv 200 ml	Nosotras	3639.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+150	Desodorante crema Rexona Clean 48 g	Rexona Men Clinical	0.0	4504.0	5299.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	795.0	1.213	1.0
+151	Pañal Plenitud Protect G 22 un.	Plenitud	16799.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+152	Desodorante barra hipoalergénico 50 g	Speed Stick	2999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+153	Máquinas de afeitar Venus Simply3 2 un.	Gillette	3499.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+154	Pañales para adultos Tena Pants G 16 unid.	Tena	11950.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+155	Jabón líquido karité 500 ml	Ballerina	1390.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+156	Shampoo Protección Caída con cafeína 375 ml	Head & Shoulders	4159.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+157	Jabón en barra blanco exfoliante 90 g	Dove	1739.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+158	Shampoo Essences agua de coco jazmín 400 ml	Herbal	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+159	Jabón barra frutos rojos 3 un. 90 g c/u	Le Sancy	2179.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+160	Pasta dental anticaries NeutrAzúcar 90 g	Colgate	1890.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+161	Desodorante aerosol Rexona Women Powder Dry 150 ml	Rexona	0.0	2289.0	2949.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	660.0	1.007	1.0
+162	Desodorante Go Fresh pepino spray 150 ml	Dove	0.0	3459.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-3459.0	-5.277	1.0
+163	Shampoo Classic Shine 400 ml	Herbal Essences	0.0	4599.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-4599.0	-7.016	1.0
+164	Shampoo Reconstrucción Completa 400 ml	Dove	0.0	2690.0	3849.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	1159.0	1.768	1.0
+165	Acondicionador Pro-V rizos definidos 300 ml	Pantene	0.0	1990.0	2889.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	899.0	1.371	1.0
+166	Pasta dental Sensibilidad & Encías Blanqueador 100 g	Sensodyne	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+167	Desodorante Musk aerosol 150 ml	Axe	0.0	2179.0	2769.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	590.0	0.9	1.0
+168	Toallas higiénicas Kotex normal con alas 32 un.	Kotex	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+169	Pasta dental Luminous White Brilliant 90 g	Colgate	0.0	2690.0	2890.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	200.0	0.305	1.0
+170	Toallas higiénicas Nosotras Sensitiv ultra invisible 24 un.	Nosotras	0.0	2719.0	3399.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	680.0	1.037	1.0
+171	Agua Micelar 400 ml Skin Active	Garnier	4990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+172	Crema dental active white 160 g	Aquafresh	3179.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+173	Super acondicionador 1 min regeneración extrema 170 ml	Dove	0.0	2690.0	3150.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	460.0	0.702	1.0
+174	Jabón espuma vainilla 300 ml	Family Care	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+175	Crema para peinar Rizos Definidos 300 ml	Sedal	0.0	2490.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-2490.0	-3.798	1.0
+176	Pasta dental Kids Fresantástico 3 un. 50 g c/u	Colgate	3490.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+177	Desodorante Invisible Dry spray 150 ml	Dove	0.0	3459.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-3459.0	-5.277	1.0
+178	Toallas higiénicas Ladysoft nocturna ultradelgada 16 un.	Ladysoft	2670.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+179	Acondicionador Reparación Total 5 370 ml	Elvive	0.0	3989.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-3989.0	-6.085	1.0
+180	Protectores diarios cortos normal 100 un.	Nosotras	2989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+181	Shampoo granada sin sal 750 ml	Ballerina	1559.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+182	Jabón líquido blanco 750 ml	Simond'S	1989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+183	Cepillo dental Kids Mickey	Oral-B	2359.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+184	Desodorante Dermo Aclarant barra 50 g	Dove	3249.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+185	Pasta dental Kids Fresantástico 50 g	Colgate	1399.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+186	Acondicionador anti esponjado 600 ml	Vanart	0.0	2690.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-2690.0	-4.104	1.0
+187	Acondicionador Manzana y Papaya 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+188	Jabón líquido Creme Soft 250 ml	Nivea	1699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+189	Pasta dental Natural Extracts carbón 90 g	Colgate	2599.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+190	Shampoo largo increíble 750 ml	Ballerina	1559.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+191	Acondicionador Hidratación Intensa 400 ml	Dove	0.0	2690.0	3849.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	1159.0	1.768	1.0
+192	Desodorante spray Stress Protect 150 ml	Nivea For Men	0.0	2669.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-2669.0	-4.072	1.0
+193	Shampoo cherry cerezo 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+194	Desodorante roll on invisible Black & White clear 50 ml	Nivea	2999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+195	Máquina de afeitar piel sensible 3 unid.	Schick	2099.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+196	Shampoo anti esponjado 600 ml	Vanart	0.0	2690.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	-2690.0	-4.104	1.0
+197	Shampoo Control Grasa 375 ml	Head & Shoulders	4159.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+198	Jabón líquido PH5 1 L	Ballerina	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+199	Pasta dental Luminous White brilliant 125 ml	Colgate	5390.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+200	Cepillo dental Twister Fresh medio 2 un.	Colgate	2390.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+201	Crema para peinar Control y definición Rizos M 300 ml	Fructis	2579.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+202	Cepillo de dientes minipep ultrasuave 2-6 años	Pepsodent	2619.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+203	Pack 2 un. Jabón barra almendras o Frutos rojos 150 g	Le Sancy	2699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+204	Shampoo Hidra Hialurónico 680 ml	Elvive	5589.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+205	Desodorante masculino fresh barra 50 g 2 un.	Old Spice	4459.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+206	Shampoo Fuerza Extrema 400 ml	Dove Men	0.0	2690.0	3699.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	1009.0	1.539	1.0
+207	Pack 2 un. Desodorante spray Sensitive protect 150 ml	Nivea	4899.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+208	Acondicionador Color Vive 370 ml	Elvive	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+209	Desodorante Olorblock spray 150 ml	BiO	0.0	1949.0	2599.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	650.0	0.992	1.0
+210	Gel Style Tarro Extra Fuerte 600 g	Fructis	3999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+211	Shampoo limpieza renovadora 1 L	Head & Shoulders	7990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+212	Shampoo Familand bambú cannabis 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+213	Toallas higiénicas Ladysoft nocturna tela ultraseca 8 un.	Ladysoft	1729.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+214	Desodorante aerosol Rexona Men Invisible 150 ml	Rexona Men	0.0	2289.0	2949.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	660.0	1.007	1.0
+215	Jabón barra aloe 3 un. 90 g c/u	Protex	0.0	1990.0	2599.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	609.0	0.929	1.0
+216	Jabón líquido aceite de almendras 750 ml	Le Sancy	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+217	Colonia Splash 1 L	Bellekiss	4349.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+218	Pañales para adultos Tena Pants M 16 unid.	Tena	11950.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+219	Complete 4 en 1 pasta dental 66 ml	Oral-B	2859.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+220	Desodorante barra Invisible Dry 50 g	Dove Men	3199.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+221	Jabón alcohol gel 250 ml	Family Care	1990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+222	Pasta dental 3DWhite 2 un. 100 g	Oral-B	3899.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+223	Enjuague bucal Oral Fresh menta fuerte 500 ml	Oral-B	0.0	2393.0	3190.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	797.0	1.216	1.0
+224	Acondicionador Dream Long 370 ml	Elvive	3989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+225	Pañal adulto Tena Pants nocturno M 8 unid.	Tena	8199.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+226	Cepillo dental 7 Beneficios 2 un.	Oral-B	3999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+227	Pañal adulto Pants P-M 16 un.	Cotidian	0.0	13899.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	-13899.0	-21.203	1.0
+228	Enjuague bucal Cool Mint Zero alcohol 500 ml + 250 ml	Listerine	6869.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+229	Desodorante roll on invisible b&w 50 ml	Nivea	2999.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+230	Jabón alcohol gel 60 ml	Family Care	990.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+231	Cepillo dental doble acción 6N 2 un.	Duralón	1699.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+232	Tintura máximo brillo 8/1 rubio claro ceniza	Ilicit	2390.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+233	Desodorante spray Fresh ice 150 ml	Nivea	0.0	2669.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	-2669.0	-4.072	1.0
+234	Shampoo Rizos Definidos 340 ml	Sedal	0.0	2899.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	-2899.0	-4.422	1.0
+235	Pack 2 un. Shampoo limpieza renovadora 375 ml	Head & Shoulders	0.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+236	Bálsamo cherry cerezo 750 ml	Familand	1659.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+237	Desodorante crema Rexona Classic 48 g	Rexona Clinical	0.0	4504.0	5299.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	795.0	1.213	1.0
+238	Acondicionador manzanilla 750 ml	Ballerina	1559.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+239	Shampoo Dream Long 370 ml	Elvive	3989.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+240	Jabón en barra Afrecho 100 g	Trianon	1595.0	0.0	0.0	0	supermercados	belleza-y-cuidado-personal	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0

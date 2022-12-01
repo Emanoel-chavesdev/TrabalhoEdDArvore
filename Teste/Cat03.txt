@@ -1,0 +1,241 @@
+481	Nuggets de pollo congelado bolsa 400 g	Super Pollo	0.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+482	Choclo en grano congelado 500 g	Cuisine & Co	1490.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+483	Porotos verdes congelados 350 g	Cuisine & Co	1050.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+484	Arvejas congeladas 500 g	Cuisine & Co	1490.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+485	Hamburguesa vacuno 100 g	Receta Del Abuelo	959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+486	Papas pre fritas 1 kg	Cuisine & Co	0.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+487	Mix primavera congelada 500 g	Cuisine & Co	1490.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+488	Sofrito 150 g	Frutos Del Maipo	790.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+489	Papas duquesas 1 kg	Cuisine & Co	3290.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+490	Nuggets de pollo Ready 400 g	Cuisine & Co	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+491	Habas congeladas 500 g	Cuisine & Co	1650.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+492	Sofrito con Ajo 150 g	Minuto Verde	749.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+493	Cebolla picada congelada 250 g	Cuisine & Co	849.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+494	Zapallo en cubos 500 g	Minuto Verde	1570.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+495	Hamburguesa vegana 100 g	Not Burger	0.0	1089.0	1299.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	210.0	0.32	1.0
+496	Hamburguesa de vacuno bacon 100 g	Receta Del Abuelo	959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+497	Hamburguesa de Vacuno Grill Receta del Abuelo 100 g	Receta Del Abuelo	959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+498	Hamburguesa de pollo 100 g	Receta Del Abuelo	959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+499	Crocante de Pollo Super Pollo 100 g	Super Pollo	619.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+500	Choclo en granos 500 g	Frutos Del Maipo	0.0	1590.0	1959.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	369.0	0.563	1.0
+501	Rebozado de pollo 100 g	Sadia	519.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+502	Suprema de Pollo Jamón y Queso Receta del Abuelo 120 g	Receta Del Abuelo	979.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+503	Choclo 500 g	Minuto Verde	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+504	Hamburguesa de vacuno congelada 100 g	Cuisine & Co	819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+505	Churrasco de vacuno 90 g	King	899.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+506	Hamburguesa americana 100 g	Receta Del Abuelo	959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+507	Pechuga de Pollo Apanada Receta del Abuelo 120 g	Receta Del Abuelo	979.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+508	Hamburguesa de vacuno 100 g	La Crianza	1059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+509	Hamburguesa de soya 100 g	Mister Veggie	799.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+510	Churrasco de vacuno congelado 120 g	Cuisine & Co	1560.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+511	Hamburguesa de vacuno 90 g	Super Beef	0.0	529.0	649.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	120.0	0.183	1.0
+512	Nuggets de pollo 1 kg	Super Pollo	5190.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+513	Nuggets de pollo Ready 1 kg	Cuisine & Co	4899.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+514	Sofrito apio tomate 150 g	Frutos Del Maipo	749.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+515	Nugget popcorn pollo mantequilla 300 g	Super Pollo	1769.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+516	Empanada raviolera queso 552 g	Cuisine & Co	3190.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+517	Pollo apanado 100 g	PF	589.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+518	Hamburguesa de vacuno light 100 g	La Crianza	1059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+519	Salteado Chapsui Wok bolsa 500 g	Frutos Del Maipo	0.0	1990.0	2319.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	329.0	0.502	1.0
+520	Mix de Pimentones 150 g	Frutos Del Maipo	899.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+521	Hamburguesa vegana de garbanzos 100 g	Minuto Verde	0.0	719.0	849.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	1	130.0	0.198	1.0
+522	Ensalada rusa congelada 500 g	Cuisine & Co	1550.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+523	Poroto verde corte francés 350 g	Minuto Verde	1690.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+524	Hamburguesa vacuno 90 g	San Jorge	0.0	549.0	689.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	140.0	0.214	1.0
+525	Papas Pre fritas 1 kg	Minuto Verde	4590.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+526	Croqueta de verduras 90 g	La Crianza	659.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+527	Pasta de choclo 1 kg	Minuto Verde	3990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+528	Hamburguesa vacuno congelada 1 kg	Cuisine & Co	8490.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+529	Escalopa Kayser Vacuno Jamón y Queso Receta del Abuelo 120 g	Receta Del Abuelo	979.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+530	Nuggets de pollo congelado bolsa 400 g	Super Pollo	0.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+531	Hamburguesa vegana de lentejas 100 g	Minuto Verde	0.0	719.0	849.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	130.0	0.198	1.0
+532	Choclo tierno 400 g	La Crianza	1990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+533	Helado Mega Mini Frambuesa Multipack 5x60ml	Mega	0.0	3722.0	4379.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	657.0	1.002	1.0
+534	Nuggets de pollo 400 g	La Crianza	3090.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+535	Pop corn pollo 300 g	Super Pollo	1690.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+536	Hamburguesa de soya champiñón tomate Mr. Veggie 100 g	Mister Veggie	599.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+537	Hamburguesas vacuno caja 10 un. 1 kg	La Crianza	9659.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+538	Mix berries congelado 400 g	Cuisine & Co	3559.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+539	Hamburguesa de vacuno congelada 185 g	Cuisine & Co	1429.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+540	Tutitos de pollo Super Pollo, bolsa 500 g	Super Pollo	2990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+541	Helado Savory Chocolate Suizo Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+542	Helado Chocolito Mini Multipack 10x50ml	Savory	0.0	3144.0	3699.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	555.0	0.847	1.0
+543	Nugget Crocante Sadia 300 g	Sadia	2090.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+544	Churrascos de Vacuno Receta del Abuelo 120 g	Receta Del Abuelo	1759.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+545	Hamburguesa vegana de porotos 100 g	Minuto Verde	0.0	719.0	849.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	130.0	0.198	1.0
+546	Helado Savory Brick Trisabor Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+547	Choclo en trozos 350 g	Frutos Del Maipo	1619.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+548	Helado Savory Vainilla Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+549	Ensalada Primavera bolsa 500 g	Frutos Del Maipo	0.0	1590.0	1959.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	369.0	0.563	1.0
+550	Porotos granados 500 g	Frutos Del Maipo	2959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+551	Papas Duquesas 1 kg	Minuto Verde	4790.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+552	Helado Savory Pasas al Ron Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+553	Arvejas 500 g	Frutos Del Maipo	0.0	1590.0	1959.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	369.0	0.563	1.0
+554	Frutilla congelada 500 g	Cuisine & Co	2668.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+555	Hamburguesa de pollo 100 g	La Crianza	1129.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+556	Helado Savory Chirimoya Alegre Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+557	Hamburguesa de soya 100 g	La Crianza	0.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+558	Anillos de cebolla tempura 400 g	Cuisine & Co	1990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+559	Nuggets de Pollo Receta del Abuelo 1 kg	Receta Del Abuelo	7090.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+560	Choclo trozo 680 g	Minuto Verde	3990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+561	Helado Savory Tres Leches Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	2	789.0	1.204	1.0
+562	Hamburguesa de vacuno tocino 100 g	La Crianza	1059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+563	Barra de fruta frambuesa 8 x 55 g c/u	Guallarauco	4549.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+564	Arándanos congelado 400 g	Cuisine & Co	3059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+565	Helado Sahne Nuss Paleta Mini Multipack 5x60ml	Sahne Nuss	0.0	3722.0	4379.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	657.0	1.002	1.0
+566	Helado Centella 3 sabores Multipack 21x52g	Savory	0.0	3188.0	3750.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	562.0	0.857	1.0
+567	Hamburguesa de vacuno grill de 100 g	La Crianza	979.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+568	Frambuesa congelada 400 g	Cuisine & Co	4759.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+569	Helado Chamonix Menta Chips Chocolate y Crema 2,5L	Chamonix	0.0	3390.0	4099.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	709.0	1.082	1.0
+570	Helado Danky Mini Nogatonga Multipack 5x80ml	Savory	0.0	3722.0	4379.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	657.0	1.002	1.0
+571	Salteado Thai Wok bolsa 500 g	Frutos Del Maipo	0.0	1990.0	2319.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	329.0	0.502	1.0
+572	Hamburguesa americana 185 g	Receta Del Abuelo	1659.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+573	Nuggets Plan Based 300 g	La Crianza	3259.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+574	Nugget de verdura 400 g	La Crianza	3199.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+575	Primavera de verduras bolsa 500 g	Minuto Verde	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+576	Helado Crocanty Mini Multipack 400ml (8x50ml)	Savory	0.0	3170.0	3729.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	559.0	0.853	1.0
+577	Bombón helado chomp frambuesa a la crema 225 ml	Savory	3119.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+578	Espinaca congelada 500 g	Cuisine & Co	1750.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+579	Lomitos fiesta 90 g	Super Cerdo	859.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+580	Helado Savory Chocolate Suizo y Frutos del bosque 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	789.0	1.204	1.0
+581	Frutos del Bosque 400 g	Minuto Verde	3290.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+582	Helado cookies and cream 792 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	759.0	1.158	1.0
+583	Arvejas 500 g	Minuto Verde	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+584	Waffle estilo casero 350 g	Zole	3890.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+585	Cebolla Picada Minuto Verde 250 g	Minuto Verde	1199.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+586	Hamburguesas vacuno light caja 10 un. 1 kg	La Crianza	9659.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+587	Hielo campana 2 kg	Cuisine & Co	1329.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+588	Hamburguesa de pavo 100 g	La Crianza	1059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+589	Helado fudge brownie 780 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	759.0	1.158	1.0
+590	Helado Chamonix 3 Chocolates Chips 2,5L	Chamonix	0.0	3390.0	4099.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	709.0	1.082	1.0
+591	Hamburguesa de vacuno Mastodonte 185 g	La Crianza	1859.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+592	Barra de fruta lúcuma manjar 6 x 60 g c/u	Guallarauco	3829.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+593	Helado lúcuma con capas cobertura de chocolate 1 L	Viennetta Bresler	0.0	3093.0	3639.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	546.0	0.833	1.0
+594	Helado Frugelé Trisabor frambuesa limón manzana 1 L	Bresler	0.0	2117.0	2490.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	373.0	0.569	1.0
+595	Churrascos de asiento 720 g	Cuisine & Co	9979.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+596	Pulpa de Maracuyá Sabor Peruano Bolsa 500 g, Congelado	Sabor Peruano	3309.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+597	Not Burger Chicken 100 g	Not Chicken	1299.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+598	Empanadas napolitanas 432 g	Cuisine & Co	0.0	4790.0	4959.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	169.0	0.258	1.0
+599	Mango congelado 500 g	Cuisine & Co	3359.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+600	Barra de fruta frambuesa 6 x 60 g c/u	Guallarauco	3829.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+601	Ensalada jardinera congelado 500 g	Minuto Verde	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+602	Helado La Cremería Brownie 1L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+603	Helado Savory Lúcuma Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	789.0	1.204	1.0
+604	Helado Chamonix Chocolate 3 leches Manjar 2,5L	Chamonix	0.0	3390.0	4099.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	709.0	1.082	1.0
+605	Helado swirl caramel 836 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	759.0	1.158	1.0
+606	Helado Kriko mini 6 un. 50 ml c/u	Savory	0.0	3119.0	3669.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	550.0	0.839	1.0
+607	Hamburguesa de Vacuno King 185 g	King	1329.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+608	Papas Duquesas 1 kg	Frutos Del Maipo	4159.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+609	Helado 0% azúcar vainilla 1 L	San Francisco De Loncomilla	5049.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+610	Barra de fruta naranja frutilla 8 x 55 g c/u	Guallarauco	4549.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+611	Bombón Helado Savory Pura Fruta Frambuesa Chocolate amargo 225ml	Savory	3250.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+612	Bombón Helado Sahne Nuss Chocolate 225ml	Sahne Nuss	3429.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+613	Hamburguesa vacuno 900 g	San Jorge	6390.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+614	Filetitos de pollo 400 g	La Crianza	4490.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+615	Helado bresler pote cassata 2.4l	Bresler	0.0	4359.0	5449.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	1090.0	1.663	1.0
+616	Hamburguesa americana de vacuno 120 g	La Crianza	1329.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+617	Hamburguesa de pollo 150 g	La Crianza	1299.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+618	Helado lúcuma manjar 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+619	Postre helado cappuccino 1 L	Viennetta Bresler	0.0	3093.0	3639.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	546.0	0.833	1.0
+620	Helado vainilla 1 L	Bresler	2999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+621	Postre helado vainilla chocolate 1 L	Viennetta Bresler	0.0	3093.0	3639.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	546.0	0.833	1.0
+622	Hamburguesa de vacuno light 150 g	La Crianza	1340.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+623	Helado Savory Piña Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	789.0	1.204	1.0
+624	Helado 0% azúcar chocolate 1 L	San Francisco De Loncomilla	5049.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+625	Ensalada Jardinera 500 g	Frutos Del Maipo	1959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+626	Barra de fruta mango 6 x 60 g c/u	Guallarauco	3829.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+627	Hel multipack 0% azúcar choco vainilla 5 un. 70 g	San Francisco De Loncomilla	4669.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+628	Helado menta con choco chips 1.42 L	Turkey Hill	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+629	Piña congelada 500 g	Cuisine & Co	3159.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+630	Habas tiernas 400 g	La Crianza	2259.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+631	Helado Savory Selva negra Cassata 1L	Savory	0.0	2190.0	2979.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	789.0	1.204	1.0
+632	Porotos verdes 350 g	Frutos Del Maipo	0.0	1350.0	1629.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	279.0	0.426	1.0
+633	Helado Sahne Nuss Cono Mini Multipack 5x80ml	Savory	0.0	3722.0	4379.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	657.0	1.002	1.0
+634	Helado La Cremería Papayas a la Crema 1L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+635	Empanadas de pino 432 g	Cuisine & Co	0.0	4790.0	4959.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	169.0	0.258	1.0
+636	Helado Chamonix Manjar Lúcuma y Crema Chips 2,5L	Chamonix	0.0	3390.0	4099.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	709.0	1.082	1.0
+637	Arrollado napolitano jamón queso 400 g	Alimentos Shen	3399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+638	Helado mini almendras 5 un. 60 ml c/u	Magnum	0.0	3829.0	4669.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	840.0	1.281	1.0
+639	Helado vegetal chocolate avellana 296 g	Not Ice Cream	0.0	4180.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	-4180.0	-6.377	1.0
+640	Tortilla de verdura 110 g	La Crianza	1059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+641	Helado de agua de frambuesa 1 L	San Francisco De Loncomilla	2949.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+642	Arvejas tiernas 400 g	La Crianza	2059.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+643	Hamburguesa Plant based 100 g	La Crianza	1190.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+644	Helado chocolate 1 L	Bresler	2999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+645	Helado Sahne Nuss 900ml	Sahne Nuss	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+646	Postre Helado Sahne Nuss 1L	Sahne Nuss	3689.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+647	Arrollado primavera de cerdo 400 g	Alimentos Shen	3499.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+648	Helado Frugelé frutos rojos 1 L	Bresler	0.0	2117.0	2490.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	373.0	0.569	1.0
+649	Pulpa de Mango doypack 335 g	Minuto Verde	2619.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+650	Helado La Cremería Brownie Frambuesa 1L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+651	Habas 500 g	Minuto Verde	2079.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+652	Helado de agua de arándano 1 L	San Francisco De Loncomilla	2949.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+653	Helado Kit Kat Paleta Multipack 5x55ml	Savory	0.0	3722.0	4379.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	657.0	1.002	1.0
+654	Mix smoothie Minuto Verde red antioxidante 500 g	Minuto Verde	3729.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+655	Papas prefritas 1 Kg	Frutos Del Maipo	4159.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+656	Postre helado chocolate y vainilla con almendras caramelizadas 1 L	Carte Dor	0.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+657	Helado vegetal cookies & cream 284 g	Not Ice Cream	0.0	4180.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	-4180.0	-6.377	1.0
+658	Hielo whisky bolsa 2 kg	Rock	1439.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+659	Helado Trisabor chocolate lúcuma y manjar 2.4 L	Bresler	0.0	4359.0	5449.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	1090.0	1.663	1.0
+660	Helado de agua de limón 1 L	San Francisco De Loncomilla	2949.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+661	Vegan Crispy 120 g	Receta Del Abuelo	1190.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+662	Helado de frambuesas a la crema 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+663	Helado tres leches 1 L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+664	Barra de fruta tropical 360 g	Guallarauco	3829.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+665	Helado vegetal cheesecake 298 g	Not Ice Cream	0.0	4180.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	-4180.0	-6.377	1.0
+666	Barra de fruta chirimoya 6 x 60 g c/u	Guallarauco	3829.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+667	Chicken Fingers Rebozados Sadia 480 g	Sadia	3990.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+668	Hamburguesa de vacuno 150 g	La Crianza	1519.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+669	Helado de tronco de castaña 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+670	Postre helado chocolate blanco frambuesa 900 ml	Magnum	0.0	4279.0	5349.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	1070.0	1.632	1.0
+671	Postre helado Charlot frambuesa 1 L	Savory	3239.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+672	Helado banana split 1.42 L	Turkey Hill	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+673	Helado tres leches 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+674	Hamburguesa tres quínoas 200 g	Rikü	1999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+675	Hamburguesa de garbanzos 200 g	Rikü	1999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+676	Helado vainilla bean 792 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	759.0	1.158	1.0
+677	Helado multipack Flipy 600 ml	Bresler	4499.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+678	Postre helado chocolate nuss 900 ml	Magnum	0.0	4279.0	5349.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	1070.0	1.632	1.0
+679	Helado Rolls Crocante 900 ml	Bresler	0.0	3960.0	4659.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	699.0	1.066	1.0
+680	Sucedáneo de chorizo vegano 260 g	Rikü	2299.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+681	Helado multipack Frugelé 18 un. 60 ml c/u	Bresler	0.0	4509.0	5499.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	5	990.0	1.51	1.0
+682	Pizzeta napolitana congelada 440 g	Cuisine & Co	0.0	4790.0	5090.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	300.0	0.458	1.0
+683	Postre helado plátano manjar 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+684	Helado brownie 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+685	Helado vegetal multipack 4 un. Croca choco 70 g	Not Ice Cream	0.0	4390.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	-4390.0	-6.697	1.0
+686	Helado Frac vainilla multipack 5 un. 70 ml c/u	Bresler	0.0	3230.0	3939.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	709.0	1.082	1.0
+687	Base Arvejado 400 g	Frutos Del Maipo	1729.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+688	Helado suspiro limeño 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+689	Helado de agua de piña 1 L	San Francisco De Loncomilla	2949.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+690	Postre helado Charlot vainilla 1 L	Savory	3239.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+691	Helado multipack Suny 350 ml	Bresler	3869.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+692	Postre helado chocolate signature 1 L	Carte Dor	0.0	4054.0	4769.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	715.0	1.091	1.0
+693	Helado chocolate light 792 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	759.0	1.158	1.0
+694	Helado de pie de limón 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+695	Helado papayas a la crema 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+696	Helado chocolate frutilla y vainilla 1 L	Bresler	2999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+697	Helado Savory Pura Fruta Multipack Mango 6x50ml	Savory	0.0	3399.0	3999.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	600.0	0.915	1.0
+698	Helado chocolate holandés con marshmallows 1.65 L	Turkey Hill	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+699	Pulpa de Frambuesas doypack 335 g	Minuto Verde	2959.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+700	Pack paleta helado choco nuss 5 un. 80 g c/u	San Francisco De Loncomilla	4669.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+701	Helado Magnum mini cookies & cream 5 un. 60 ml c/u	Magnum	0.0	3829.0	4669.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	840.0	1.281	1.0
+702	Postre helado Charlot tres leches 1 L	Savory	3239.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+703	Helado vegetal multipack vainilla y caramelo 260 g	Not Ice Cream	0.0	4390.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	-4390.0	-6.697	1.0
+704	Hielo 2 kg	Fiesta	1439.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+705	Helado chocolate nuss 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+706	Helado Savory Pura Fruta Multipack Frambuesa 6x50 ml	Savory	0.0	3569.0	4199.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	630.0	0.961	1.0
+707	Helado La Cremería Maracuyá 1L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+708	Helado menta chips 900 ml	Bravissimo	5329.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+709	Multipack 5 un. Mini Mega cookies & cream manjar 60 ml	Savory	0.0	3732.0	4390.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	658.0	1.004	1.0
+710	Helado La Cremería Plátano Manjar 1L	Savory	4819.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+711	Helado sabor agua mango 1 L	San Francisco De Loncomilla	2949.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+712	Helado 0% azúcar frutos del bosque 1 L	San Francisco De Loncomilla	5049.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+713	Helado Carezza postre 1 L	Bresler	0.0	3926.0	4619.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	693.0	1.057	1.0
+714	Falafel tradicional 400 g	Tivoni	4450.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+715	Helado strawberries 840 g	Cuisine & Co	0.0	4790.0	5549.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	759.0	1.158	1.0
+716	Helado piña 1 L	Bresler	2999.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+717	Postre helado Cookies & Cream 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+718	Milanesa de soya 80 g	Mister Veggie	649.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+719	Helado Savory Pura Fruta Frambuesa Chocolate amargo Paleta Multipack 6x50ml	Savory	0.0	3528.0	4150.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	622.0	0.949	1.0
+720	Helado mangos a la crema 1 L	San Francisco De Loncomilla	5399.0	0.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+721	Helado vegetal multipack crema frambuesa 272 g	Not Ice Cream	0.0	4390.0	0.0	0	supermercados	congelados	2022-07-16 22:11:26.364649	1 un	1	6	-4390.0	-6.697	1.0

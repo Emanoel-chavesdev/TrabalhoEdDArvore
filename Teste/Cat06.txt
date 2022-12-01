@@ -1,0 +1,253 @@
+1412	Postre de chocolate Trencito Mousse 70g	Nestlé	579.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1413	Jalea frambuesa 100 g	Colun	245.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1414	Jalea limón 100 g	Colun	245.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1415	Jalea guinda 100 g	Colun	245.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1416	Postre Manjarate 80 g	Soprole	609.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1417	Jalea Nestlé Frambuesa 110g	Nestlé	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1418	Jalea Nestlé Piña 110g	Nestlé	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1419	Postre Chandelle Crema sabor chocolate 130g	Nestlé	0.0	679.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-679.0	-1.036	1.0
+1420	Flan vainilla con salsa de caramelo 120 g	Soprole	0.0	345.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-345.0	-0.526	1.0
+1421	Sémola con Leche Nestlé Salsa de Caramelo 135g	Nestlé	585.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1422	Flan Colun Vainilla 100 g	Colun	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1423	Petit suisse Chiquitín Frutilla 45g	Nestlé	269.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1424	Jalea Nestlé Guinda 110g	Nestlé	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1425	Flan manjar Colun 100 g	Colun	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1426	Sémola con leche y salsa de caramelo 140 g	Soprole	0.0	605.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-605.0	-0.923	1.0
+1427	Postre Chandelle Crema manjar 130g	Nestlé	0.0	679.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-679.0	-1.036	1.0
+1428	Flan Colun sabor chocolate 100 g	Colun	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1429	Postre Sahne Nuss Mousse de chocolate 100g	Sahne Nuss	669.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1430	Postre Nestlé Leche Asada 120g	Nestlé	569.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1431	Jalea Nestlé Naranja 110g	Nestlé	315.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1432	Flan de caramelo Postres de la Abuela 120 g	Soprole	0.0	345.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-345.0	-0.526	1.0
+1433	Petit suisse Chiquitín Plátano 45g	Nestlé	269.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1434	Sémola con leche y salsa de frambuesa 140 g	Soprole	0.0	605.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-605.0	-0.923	1.0
+1435	Jalea frambuesa 110 g	Soprole	0.0	335.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-335.0	-0.511	1.0
+1436	Compota Nestlé Manzana 120g	Nestlé	405.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1437	Postre panna cotta salsa de frambuesa 120 g	Soprole	619.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1438	Compota Nestlé Pera 120g	Nestlé	405.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1439	Flan Nestlé Vainilla 110g	Nestlé	329.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1440	Jalea piña 110 g	Soprole	335.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1441	Postre Chandelle Crema sabor lúcuma 130g	Nestlé	0.0	679.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-679.0	-1.036	1.0
+1442	Postre Manjarate White 80 g	Soprole	609.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1443	Postre Manjarate Black 80 g	Soprole	609.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1444	Petit suisse Chiquitín Frutilla multipack 12x45g	Chiquitín	3069.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1445	Postre del sur chocolate 95 g	Colun	0.0	495.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-495.0	-0.755	1.0
+1446	Postre del sur tres leches 95 g	Colun	0.0	495.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-495.0	-0.755	1.0
+1447	Petit suisse Chiquitín Damasco 45g	Nestlé	269.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1448	Sémola con leche y salsa de damasco 140 g	Soprole	0.0	605.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-605.0	-0.923	1.0
+1449	Postre Chandelle sin lactosa manjar 130 g	Nestlé	0.0	719.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-719.0	-1.097	1.0
+1450	Postre del sur manjar 95 g	Colun	0.0	495.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	-495.0	-0.755	1.0
+1451	Postre Prestigio Mousse 80g	Nestlé	0.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1452	Pack 4 un. Jalea frambuesa 100 g	Regimel	1779.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1453	Postre crème caramel 120 g	Soprole	619.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1454	Jalea guinda 110 g	Soprole	0.0	335.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	-335.0	-0.511	1.0
+1455	Postre panna cotta caluga 120 g	Soprole	619.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1456	Jalea naranja 110 g	Soprole	335.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1457	Pack 4 un. Jalea arándano 100 g	Regimel	1779.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1458	Bocado con salsa de chocolate 120 g	Soprole	0.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1459	Bocado con salsa de berries 120 g	Soprole	0.0	0.0	0.0	0	lacteos	postres	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1460	Margarina mix pote 500 g	Cuisine & Co	0.0	2390.0	2749.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	359.0	0.548	1.0
+1461	Margarina canola pote 400 g	Cuisine & Co	1989.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1462	Mantequilla con sal 250 g	Colun	0.0	1990.0	2379.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	389.0	0.593	1.0
+1463	Mantequilla con sal 250 g	Soprole	2459.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1464	Mantequilla con sal 250 g	Los Alerces	2259.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1465	Margarina con sal 500 g	Qualy	1989.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1466	Mantequilla con sal 125 g	Colun	1269.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1467	Mantequilla Los Alerces 125 g	Los Alerces	1189.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1468	Margarina 500 g	Soprole	1859.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1469	Mantequilla sin sal 250 g	Colun	2499.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1470	Mantequilla con sal 125 g	Soprole	1299.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1471	Mantequilla sin sal 250 g	Soprole	0.0	1990.0	2339.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	349.0	0.532	1.0
+1472	Mantequilla 200 g	Colun	2629.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1473	Manteca 200 g	Astra	1339.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1474	Margarina Deline pote 500 g	Deline	1389.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1475	Manteca 200 g	Crucina	1329.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1476	Mantequilla con sal 250 g	Quillayes	2479.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1477	Mantequilla con sal de mar 250 g	Soprole	2389.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1478	Mantequilla untable 200 g	Soprole	2829.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1479	Mantequilla con sal 250 g	Calo	2479.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1480	Margarina Mix 500 g	Sureña	3069.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1481	Margarina1 kg	Pamperita	2929.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1482	Margarina Bonella Sabor Mantequilla Pote 500 g	Bonella	2579.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1483	Margarina Sureña 500 g	Sureña	0.0	2103.0	2629.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	526.0	0.802	1.0
+1484	Mantequilla untable con sal 350 g	Calo	3549.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1485	Margarina light 250 g	Next	1039.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1486	Levadura fresca 38 g	Lefersa	449.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1487	Mantequilla de campo 250 g	Kumey	2999.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1488	Levadura fresca 38 g	Collico	409.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1489	Mantequilla 250 g	Santa Isabel	2139.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1490	Margarina Mix con mantequilla 500 g	Soprole	2929.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1491	Mantequilla con sal 250 g	Surlat	2289.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1492	Manteca Delicias 1 kg	Soprole	3929.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1493	Margarina Light Sureña 500 g	Sureña	0.0	2071.0	2589.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	518.0	0.79	1.0
+1494	Margarina sin lactosa 500 g	Loncoleche	3079.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1495	Margarina 1 kg	Sureña	4849.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1496	Mantequilla con sal 125 g	Calo	1269.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1497	Margarina light pote 500 g	Bonella	2489.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1498	Mantequilla vegetal 227 g	Bonella	2190.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1499	Levadura fresca 500 g	Lefersa	2329.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1500	Mantequilla de campo 230 g	San Ignacio	3069.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1501	Mantequilla sin lactosa 250 g	Surlat	2879.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1502	Margarina untable aceite oliva 250 g	Loncoleche	2229.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1503	Margarina light 500 g	Calo	1889.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1504	Mantequilla ultra light Quillayes 200 g	Quillayes	0.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1505	Nargarina con sal 1 kg	Qualy	3779.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1506	Mantequilla vegetal aceite coco 125 g	Signore Mario	3099.0	0.0	0.0	0	lacteos	mantequillas-y-margarinas	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1507	Leche entera 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1508	Leche semidescremada 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1509	Leche descremada 1 L	Cuisine & Co	849.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1510	Leche en Polvo Nido Entera 1500g	Nido	12149.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1511	Leche entera natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1512	Leche semidescremada 1 L	Colun	999.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1513	Leche semidescremada sabor chocolate 1 L	Colun	1439.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1514	Leche semidescremada sin lactosa Loncoleche 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1515	Leche descremada sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1516	Leche descremada 1 L	Colun	999.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1517	Leche sin lactosa semidescremada 1 L	Cuisine & Co	989.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1518	Leche semidescremada natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1519	Pack 6 un. Leche semidescremada chocolate 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1520	Leche descremada sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1521	Leche semidescremada chocolate Receta original 1 L	Colun	1439.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1522	Pack 12 un. Leche entera 1 L	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1523	Leche semidescremada sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1524	Leche semidescremada chocolate 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	-1519.0	-2.317	1.0
+1525	Leche entera sin lactosa 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1526	Pack 6 un. Leche semidescremada chocolate 200 ml	Colun	2790.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1527	Pack 6 un. Leche semidescremada frutilla 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1528	Leche en polvo entera 900 g	Colun	5389.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1529	Leche descremada natural 1 L	Soprole	939.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1530	Leche descremada sin lactosa Loncoleche 1 L	Loncoleche	1159.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1531	Pack 12 un. Leche semidescremada 1 L	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1532	Pack 6 un. Leche chocolate 200 ml	Cuisine & Co	2094.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1533	Leche entera sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1534	Pack 12 un. Leche semidescremada sin tapa 1 L	Colun	11988.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1535	Leche en polvo entera 1440 g	Colun	8969.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1536	Pack 12 un. leche descremada 1 L c/u	Cuisine & Co	10188.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1537	Leche semidescremada sin lactosa 1 L	Colun	1189.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1538	Leche semidescremada frutilla 1 L	Colun	1449.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1539	Pack 12 un. Leche entera 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1540	Leche chocolate 1 L	Cuisine & Co	1279.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1541	Leche Trencito Chocolate Multipack 6x200ml	Nestlé	2850.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1542	Leche semidescremada sin lactosa chocolate 1 L	Soprole	1449.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1543	Leche semidescremada sabor chocolate 200 ml	Colun	465.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1544	Leche semidescremada frutilla 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	-1519.0	-2.317	1.0
+1545	Pack 6 un. Leche sin lactosa semidescremada chocolate 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1546	Leche descremada sin lactosa 1 L	Soprole	1129.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+1547	Pack 6 un. Leche semidescremada sin lactosa 1 L	Surlat	6534.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1548	Leche en polvo descremada 800 g	Colun	5389.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1549	Leche extra proteína 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1550	Leche Loncoleche cappucino proteína 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1551	Leche entera 1 L	Surlat	989.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1552	Leche en polvo entera 900 g	Nido	7199.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1553	Pack 6 un. Leche descremada sin lactosa 1 L	Surlat	6534.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1554	Leche semidescremada sabor vainilla 1 L	Colun	1449.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1555	Leche semidescremada 1 L	Surlat	989.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1556	Pack 6 un. Leche chocolate receta original 200 ml	Soprole	2670.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1557	Leche descremada 1 L	Surlat	989.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1558	Leche entera cremosa 1 L	Soprole	899.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1559	Leche proteína chocolate 1 L	Loncoleche	1789.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1560	Leche en Polvo Svelty Descremada 800g	Svelty	6229.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1561	Leche en Polvo Svelty Sin lactosa Descremada 800g	Svelty	8429.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1562	Pack 12 un. Leche descremada sin lactosa 1 L	Loncoleche	11868.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1563	Pack 6 un. Leche saborizada individual chocolate 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1564	Pack 12 un. Leche semidescremada 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1565	Leche entera sin lactosa 1 L	Surlat	1089.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1566	Leche en Polvo Nido Forticrece Sin lactosa 840g	Nido	10599.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1567	Leche cultivada light 0% + fibra chirimoya 1 L	Colun	1819.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1568	Pack 12 un. Leche sin lactosa semidescremada 1 L	Cuisine & Co	11868.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1569	Pack 6 un. Leche light chocolate 200 ml	Colun	2970.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1570	Pack 12 un. Leche descremada sin tapa 1 L	Colun	11988.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1571	Leche Break sin lactosa cappuccino 1 L	Loncoleche	1929.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1572	Saborizante para Leche Nestlé cacao endulzado 230g	Nestlé	0.0	2249.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	-2249.0	-3.431	1.0
+1573	Leche semidescremada sabor manjar 1 L	Colun	1449.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1574	Leche semidescremada chocolate 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1575	Leche semidescremada sin lactosa 1 L	Soprole	1129.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1576	Leche cultivada proteína frutilla 1 L	Soprole	2329.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1577	Leche chocolate 200 ml	Cuisine & Co	349.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1578	Leche en polvo descremada 350 g	Colun	0.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1579	Leche polvo sin lactosa 800 g	Loncoleche	7899.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1580	Leche light chocolate 200 ml	Colun	495.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1581	Pack 6 un. Leche proteína chocolate 200 ml	Soprole	3090.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1582	Leche polvo descremada 800 g	Calo	5249.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1583	Leche receta original chocolate 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	-1519.0	-2.317	1.0
+1584	Pack 6 un. Leche descremada 200 ml	Colun	2574.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1585	Pack 6 un. Leche semidescremada 1 L	Surlat	5934.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+1586	Leche semidescremada Loncoleche sabor chocolate 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	2	-485.0	-0.74	1.0
+1587	Leche descremada 200 ml	Colun	429.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1588	Leche capuccino light sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1589	Pack 6 un. Leche entera	Surlat	5934.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1590	Leche semidescremada frutilla 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1591	Leche semidescremada sin lactosa Loncoleche chocolate 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	-485.0	-0.74	1.0
+1592	Leche en Polvo Nido Forticrece Sin lactosa 1440g	Nido	0.0	14550.0	18899.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	4349.0	6.634	1.0
+1593	Leche capuccino sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1594	Pack 12 un. Leche descremada 100% natural 1 L	Soprole	11268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1595	Leche semidescremada plátano 1 L	Loncoleche	1489.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1596	Pack 6 un. Leche sin lactosa descremada 200 ml	Colun	2910.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1597	Pack 12 un. Leche semidescremada sin lactosa 1 L	Loncoleche	13908.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1598	Leche Danone Moments Cappuccino 1 L	Danone	1829.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1599	Leche polvo instantánea 26 mg 900 g	Calo	5419.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1600	Pack 6 un. Leche moments cappuccino 200 ml	Danone	3174.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1601	Pack 6 un. Leche descremada 1 L	Surlat	5934.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1602	Pack 3 un. Leche cappuccino sin lactosa 330 ml	Colun	2637.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1603	Pack 12 un. Leche descremada sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1604	Pack 12 un. Leche chocolate receta original 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1605	Leche semidescremada Loncoleche sin lactosa chocolate 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1606	Leche semidescremada 200 ml	Colun	429.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1607	Leche proteína chocolate 1 L	Soprole	2069.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1608	Notmilk chocolate 200 ml	Not Milk	0.0	639.0	799.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	160.0	0.244	1.0
+1609	Leche polvo semi descremada 800 g	Calo	0.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1610	Leche semidescremada sin lactosa chocolate 200 ml	Zerolacto	445.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1611	Pack 12 un. Leche entera sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1612	Saborizante para leche Nesquik Vainilla Bolsa 380g	Nesquik	2349.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1613	Pack 6 un. Leche chocolatada 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1614	Pack 12 un. Leche semidescremada sin lactosa 1 L	Colun	14268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1615	Pack 12 un. Leche natural sin lactosa 1 L	Loncoleche	13908.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1616	Pack 12 un. Leche chocolate 1 L	Colun	17268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1617	Leche Break sin lactosa chocolate y avellana 1 L	Loncoleche	1929.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1618	Leche sin lactosa frutilla 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1619	Leche Moments cappuccino 200 ml	Danone	585.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1620	Leche semidescremada chocolate blanco 1 L	Soprole	0.0	1519.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	-1519.0	-2.317	1.0
+1621	Pack 6 un. Leche chocolate 1 L	Cuisine & Co	7674.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1622	Saborizante para leche Nesquik Chocolate Sin Azúcar Añadida Tarro 350g	Nesquik	3769.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1623	Leche receta original chocolate 200 ml	Soprole	445.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1624	Leche Protein Full Pro vainilla 250 ml	Loncoleche	1389.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1625	Leche descremada sin lactosa 200 ml	Colun	485.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1626	Leche café caramelo sin lactosa 330 cc	Colun	879.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+1627	Leche proteína chocolate 200 ml	Soprole	515.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1628	Leche Trencito Chocolate 200ml	Nestlé	0.0	399.0	475.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	76.0	0.116	1.0
+1629	Pack 6 un. Leche saborizada individual vainilla 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1630	Pack 6 un. Leche moments moca 200 ml	Danone	3174.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1631	Pack 6 un. Leche semidescremada sin lactosa 200 ml	Loncoleche	2814.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1632	Leche semidescremada Loncoleche sabor chocolate 1 L	Loncoleche	1489.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1633	Pack 3 un. Leche caramelo prisma 330 ml	Colun	2637.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1634	Leche saborizada Danone Moments Moca 200 ml	Danone	585.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1635	Leche Milo 200ml	Nestlé	0.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1636	Bebida láctea Máxima 800 g	Máxima MP	3160.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1637	Pack 12 un. Leche chocolate sin tapa 1 L	Colun	17268.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1638	Pack 12 un. Leche semidescremada chocolate 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1639	Pack 6 un. Leche semidescremada 200 ml	Colun	2574.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1640	Leche en Polvo Ideal Instantánea 900g	Ideal	5189.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1641	Leche proteína semidescremada natural 1 L	Soprole	1829.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1642	Pack 12 un. Leche extra proteína 1 L	Loncoleche	19788.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1643	Leche descremada sin lactosa Loncoleche extra calcio 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1644	Leche semidescremada sin lactosa Loncoleche 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	-485.0	-0.74	1.0
+1645	Leche vainilla 200 ml	Loncoleche	0.0	485.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	-485.0	-0.74	1.0
+1646	Leche en Polvo Nido Etapa 5+ Tarro 1600g	Nido	16190.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1647	Leche en Polvo Svelty Colágeno Sin Lactosa 500g	Svelty	7999.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1648	Pack 12 un. Leche semidescremada frutilla 1 L	Soprole	18228.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1649	Pack 12 un. Leche saborizada frutilla 1 L	Colun	17388.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1650	Pack 12 un. Leche sin lactosa chocolate 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1651	Pack 12 un. Leche saborizada vainilla 1 L	Colun	17388.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1652	Pack 12 un. Leche sin lactosa extra calcio 1 L	Loncoleche	16788.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1653	Leche polvo extra calcio descremada 800 g	Calo	6769.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1654	Pack 12 un. Leche sin lactosa frutilla 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1655	Pack 12 un. Leche saborizada manjar 1 L	Colun	17388.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1656	Pack 12 un. Leche saborizada plátano 1 L	Loncoleche	17388.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1657	Leche sin lactosa light chocolate 1 L	Loncoleche	1639.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1658	Pack 12 un. Leche saborizada light chocolate 1 L	Loncoleche	17988.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1659	Saborizante para leche Nestlé Cacao Dark 230g	Nestlé	3599.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1660	Cacao dulce en polvo 200 g	Marco Polo	759.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1661	Leche descremada light Loncoleche sabor chocolate 1 L	Loncoleche	1589.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1662	Cocoa dulce en polvo 200 g	Copacabana	939.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1663	Pack 12 un. Leche saborizada chocolate 1 L	Loncoleche	17388.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+1664	Chocolate en polvo 800 g	Base Culinar	3999.0	0.0	0.0	0	lacteos	leches	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0

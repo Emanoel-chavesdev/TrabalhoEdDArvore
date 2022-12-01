@@ -1,0 +1,130 @@
+4339	Pollo asado kg	Cuisine & Co	7485.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1.5 kg	1	1	0.0	0.0	1.5
+4340	Empanada pino 2 un.	Bredenmaster	3190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4341	Ravioles ricotta espinaca 250 g	Cuisine & Co	3290.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4342	Pizza mediterránea 445 g	Cuisine & Co	4190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4343	Pizza listo jamón-queso 465 g	PF	0.0	3390.0	3890.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	500.0	0.763	1.0
+4344	Pizza americana pepperoni congelada 660 g	Cuisine & Co	0.0	5990.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	-5990.0	-9.138	1.0
+4345	Pizza americana deluxe congelada 660 g	Cuisine & Co	0.0	5990.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	-5990.0	-9.138	1.0
+4346	Pizza listo pepperoni 430 g	PF	0.0	3390.0	3890.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	500.0	0.763	1.0
+4347	Ravioles carne 250 g	Cuisine & Co	3290.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4348	Ñoquis de papa 500 g	Cuisine & Co	3190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4349	Pizza española listo 465 g	PF	0.0	3390.0	3890.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	500.0	0.763	1.0
+4350	Pizza americana 4 quesos congelada 650 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4351	Pizza vegetariana listo 465 g	PF	0.0	3390.0	3890.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	500.0	0.763	1.0
+4352	Lasaña boloñesa Listo 330 g	PF	2590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4353	Pizza pepperoni 445 g	Cuisine & Co	4190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4354	Sorrentinos capresse 250 g	Cuisine & Co	3290.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4355	Pasta untable Ave Pimiento 250 g	Corbac	2390.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4356	Lasaña espinaca champiñón Listo 330 g	PF	2590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4357	Empanada napolitana 2 un.	Bredenmaster	3590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4358	Pasta fresca gnocchi de papa Rana 500 g	Rana	3490.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4359	Pizza pollo barbecue 445 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4360	Empanada pollo 2 un.	Bredenmaster	3590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4361	Empanada queso chanco 2 un.	Bredenmaster	3690.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4362	Panzotti ricotta mozzarella jamón 250 g	Cuisine & Co	3290.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4363	Mix empanadas cocktail 720 g	Cuisine & Co	7450.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4364	Pizza americana congelada veggies 745 g	Cuisine & Co	0.0	5990.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	-5990.0	-9.138	1.0
+4365	Pizza tocino 445 g	Cuisine & Co	4190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4366	Pizza Italia Roma 500 g	Cuisine & Co	4590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4367	Ñoquis Tricolor 500 g	Cuisine & Co	3190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4368	Lasagna mix de quesos 600 g	Sadia	4649.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4369	Pasta fresca girasoli ricotta espinaca Rana 250 g	Rana	4790.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4370	Pizza jamón queso individual 250 g	PF	2050.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4371	Pasta ave mayo 250 g	Santa Isabel	2390.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4372	Pasta fresca ravioli 4 quesos Rana 250 g	Rana	4790.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4373	Empanada queso jamón 2 un.	Bredenmaster	3790.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4374	Pizza listo congelada jamón queso 465 g	PF	3980.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4375	Tiramisú 6/p 500 g	Solo Italia	0.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4376	Pizza Italia Sicilia 490 g	Cuisine & Co	4590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4377	Ñoquis Capresse 400 g	Cuisine & Co	4190.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4378	Pizza pepperoni individual 230 g	PF	2050.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4379	Pizza Listo congelada pepperoni 430 g	PF	3980.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4380	Empanada de pino casera 2 un.	Bredenmaster	5390.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4381	Profiteroles 6/p 500 g	Solo Italia	4999.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4382	Pizza Pepperoni congelada 700 g	La Crianza	6590.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4383	Pasta untable club 250 g	Corbac	2390.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4384	Stracciatella 6/p 500 g	Solo Italia	4999.0	0.0	0.0	0	supermercados	comidas-preparadas	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4385	Camarones cocidos y pelados 100 g	Cuisine & Co	1190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4386	Salmón en trozos 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4387	Salmón filete 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4388	Reineta sin piel 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4389	Milanesa de merluza apanada 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4390	Filetes de Merluza 500 g	El Golfo	4590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4391	Hamburguesa de salmón 100 g	Cuisine & Co	1090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4392	Surtido de mariscos 500 g	Cuisine & Co	0.0	3490.0	3950.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	460.0	0.702	1.0
+4393	Choritos sin concha 300 g	Cuisine & Co	2260.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4394	Camarones cocidos sin cáscara 500 g	Cuisine & Co	10190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4395	Nuggets de merluza El Golfo 400 g	El Golfo	2290.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4396	Atún congelado 500 g	Cuisine & Co	7690.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4397	Camarones cocidos apanados mariposa 500 g	Cuisine & Co	0.0	5490.0	6190.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	700.0	1.068	1.0
+4398	Camarones cocidos y pelados medianos 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4399	Camarones cocidos y pelados 250 g	Cuisine & Co	0.0	3390.0	3790.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	400.0	0.61	1.0
+4400	Hamburguesas de Merluza 2 un. 200 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4401	Kanikama congelado 300 g	Cuisine & Co	1599.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4402	Surtido de mariscos congelados 900 g	Mar Verde	5190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4403	Varitas doradas de Merluza congeladas 1 Kg	El Golfo	7190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4404	Croquetas de merluza El Golfo 100 g	El Golfo	929.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4405	Paila marina 500 g	Cuisine & Co	4150.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4406	Filetes de Merluza congelados apanados 500 g	El Golfo	4590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4407	Camarones cocidos y pelados medianos 1 kg	Cuisine & Co	13890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4408	Coctelitos de Merluza congelados apanados 500 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4409	Camarones crudos con cáscara 500 g	Cuisine & Co	8090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4410	Camarones cocidos y pelados 200 g	Mar Verde	3590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4411	Anillos de calamar apanados 400 g	Cuisine & Co	5190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4412	Salmón ahumado 100 g	Cuisine & Co	4990.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4413	Camarones cocidos con cáscara medianos 1 kg	Cuisine & Co	11760.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4414	Merluza tempura 500 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4415	Carpaccio de salmón 100 g	Cuisine & Co	5090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4416	Choritos con concha 454 g	San José	2060.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4417	Anillos de calamar 500 g	Cuisine & Co	5790.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4418	Camarones cocidos pelados 21/30 de 500 g	Cuisine & Co	12490.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4419	Salmón filete 500 g	Aqua	8890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4420	Salmón trozo 500 g	Aqua	8890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4421	Camarones cocidos con cáscara 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4422	Camarones enteros 400 g	Cuisine & Co	5890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4423	Carpaccio de vacuno congelado 320 g	Cuisine & Co	7639.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4424	Croqueta salmón 80 g	Aqua	790.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	1	0.0	0.0	1.0
+4425	Camarones cocidos y pelados 500 g	Cuisine & Co	6560.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4426	Camarones ecuatorianos cocidos sin cáscara 500 g	Cuisine & Co	10990.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 21:25:28.860226	1 un	1	2	0.0	0.0	1.0
+4427	Camarones cocidos y pelados 100 g	Cuisine & Co	1190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4428	Salmón en trozos 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4429	Salmón filete 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4430	Reineta sin piel 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4431	Milanesa de merluza apanada 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4432	Filetes de Merluza 500 g	El Golfo	4590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4433	Hamburguesa de salmón 100 g	Cuisine & Co	1090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4434	Surtido de mariscos 500 g	Cuisine & Co	0.0	3490.0	3950.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	460.0	0.702	1.0
+4435	Choritos sin concha 300 g	Cuisine & Co	2260.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4436	Camarones cocidos sin cáscara 500 g	Cuisine & Co	10190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4437	Nuggets de merluza El Golfo 400 g	El Golfo	2290.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4438	Atún congelado 500 g	Cuisine & Co	7690.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4439	Camarones cocidos apanados mariposa 500 g	Cuisine & Co	0.0	5490.0	6190.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	700.0	1.068	1.0
+4440	Camarones cocidos y pelados medianos 500 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4441	Camarones cocidos y pelados 250 g	Cuisine & Co	0.0	3390.0	3790.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	400.0	0.61	1.0
+4442	Hamburguesas de Merluza 2 un. 200 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4443	Kanikama congelado 300 g	Cuisine & Co	1599.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4444	Surtido de mariscos congelados 900 g	Mar Verde	5190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4445	Varitas doradas de Merluza congeladas 1 Kg	El Golfo	7190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4446	Croquetas de merluza El Golfo 100 g	El Golfo	929.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4447	Paila marina 500 g	Cuisine & Co	4150.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4448	Filetes de Merluza congelados apanados 500 g	El Golfo	4590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4449	Camarones cocidos y pelados medianos 1 kg	Cuisine & Co	13890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4450	Coctelitos de Merluza congelados apanados 500 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4451	Camarones crudos con cáscara 500 g	Cuisine & Co	8090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4452	Camarones cocidos y pelados 200 g	Mar Verde	3590.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4453	Anillos de calamar apanados 400 g	Cuisine & Co	5190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4454	Salmón ahumado 100 g	Cuisine & Co	4990.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4455	Camarones cocidos con cáscara medianos 1 kg	Cuisine & Co	11760.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4456	Merluza tempura 500 g	El Golfo	0.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4457	Carpaccio de salmón 100 g	Cuisine & Co	5090.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4458	Choritos con concha 454 g	San José	2060.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4459	Anillos de calamar 500 g	Cuisine & Co	5790.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4460	Camarones cocidos pelados 21/30 de 500 g	Cuisine & Co	12490.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4461	Salmón filete 500 g	Aqua	8890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4462	Salmón trozo 500 g	Aqua	8890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4463	Camarones cocidos con cáscara 500 g	Cuisine & Co	8190.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4464	Camarones enteros 400 g	Cuisine & Co	5890.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4465	Carpaccio de vacuno congelado 320 g	Cuisine & Co	7639.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4466	Croqueta salmón 80 g	Aqua	790.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	1	0.0	0.0	1.0
+4467	Camarones cocidos y pelados 500 g	Cuisine & Co	6560.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	2	0.0	0.0	1.0
+4468	Camarones ecuatorianos cocidos sin cáscara 500 g	Cuisine & Co	10990.0	0.0	0.0	0	supermercados	pescaderia	2022-07-16 22:00:45.289537	1 un	1	2	0.0	0.0	1.0

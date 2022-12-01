@@ -1,0 +1,241 @@
+722	Avena instantánea 750 g	Quaker	1829.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+723	Azúcar blanca granulada 1 kg	Cuisine & Co	989.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+724	Azúcar blanca 1 kg	Iansa	1129.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+725	Azucar Maxima 1 Kg	Máxima MP	879.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+726	Galletas Nik bocado 71 g	Costa	409.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+727	Té ceylán premium 200 g 100 un.	Supremo	0.0	2899.0	3399.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	500.0	0.763	1.0
+728	Café Nescafé Doble Choca Moka 184g 8 sobres	Nescafé	3149.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+729	Galleta chip Kuky Clásica 120g	Mckay	869.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+730	Galletas mini Conquista 35 g	Arcor	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+731	Galletas Cracker horneadas 321 g	Selz	1090.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+732	Café Nescafé Tradición tarro 170g	Nescafé	5199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+733	Galletas Triton Vainilla 126g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+734	Chocolate de Leche Trencito Barra 150g	Trencito	0.0	1869.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	-1869.0	-2.851	1.0
+735	Galletas Mini Dinosaurios 35 g	Arcor	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+736	Galletas de chocolate crema vainilla 154 g	Oreo	0.0	699.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	-699.0	-1.066	1.0
+737	Galletas mini Nik 30 g	Costa	0.0	269.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	-269.0	-0.41	1.0
+738	Galletas Vino 160 g	Costa	689.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+739	Galleta chip Kuky Mini 40g	Mckay	379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+740	Té Ceylán caja 100 bolsitas 200 g	Mildred Tea	0.0	1799.0	2109.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	310.0	0.473	1.0
+741	Galletas Chockiss 35 g	Arcor	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+742	Café Nescafé Fina Selección 200g	Nescafé	0.0	5992.0	7490.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	1498.0	2.285	1.0
+743	Galletas Tuareg 120 g	Costa	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+744	Galletas saladas original 234 g	Club Social	1349.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+745	Café Nescafé Cappuccino 140g 10 sobres	Nescafé	3679.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+746	Galletas Mckay Mini Limón 40g	Mckay	245.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+747	Galletas Frac chocolate 130 g	Costa	569.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+748	Galletas Bon o Bon 95 g	Arcor	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+749	Café Nescafé Vainilla Latte 148g 8 sobres	Nescafé	3149.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+750	Galleta bañada Morocha 50g	Mckay	379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+751	Galletas Triton Chocolate 126g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+752	Galletas Nik frutilla 71 g	Costa	409.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+753	Galletas Mckay Criollitas 100g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+754	Galletas Triton Vainilla Multipack 3 unidades 126g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+755	Té en bolsitas 50 un. premium negro 100 g	Supremo	1839.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+756	Galletón avena y chips de chocolate 40 g	Quaker	349.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+757	Avena instantánea 750 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+758	Pack 6 un. Galletas Original 36 g c/u	Oreo	1499.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+759	Galletas Triton Mini Vainilla 40g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+760	Galletas Mckay Vino 155g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	-749.0	-1.143	1.0
+761	Manjar Nestlé El Manjar 1kg	Nestlé	0.0	3280.0	4119.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	839.0	1.28	1.0
+762	Galletas de arroz Mizos chocolate 20 g	Mizos	419.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+763	Galletas Limón 140 g	Costa	0.0	599.0	689.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	90.0	0.137	1.0
+764	Hierba manzanilla caja 20 g 20 bolsitas	Supremo	919.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+765	Galletas mini Dulcitas 40 g	Costa	210.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+766	Galletas mini Selz 35 g	Arcor	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+767	Galletas mini Palmeritas 40 g	Costa	210.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+768	Café Nescafé Tradición frasco 170g	Nescafé	5199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+769	Galletas Mantequilla 140 g	Costa	689.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+770	Galletas de arroz Mizos 25 g, chocolate y naranja	Mizos	519.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+771	Galletas Chocochips con trozos de chocolate 125 g	Costa	0.0	599.0	689.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	90.0	0.137	1.0
+772	Galletas mini Vino 40 g	Costa	210.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+773	Galletas Soda 180 g	Costa	0.0	727.0	855.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	128.0	0.195	1.0
+774	Galleta Chokita 10 un. 300 g	Chokita	2689.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+775	Galletón avena y almendras 40 g	Quaker	349.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+776	Galletas Frac clásica 130 g	Costa	569.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+777	Galletas Obsesión 85 g	Costa	949.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+778	Barra de cereal chocolate 8 un. 18 g	Costa	1439.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+779	Café instantáneo 150 g	Cuisine & Co	2790.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+780	Galletas Triton Naranja 126g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+781	Azúcar flor 500 g	Cuisine & Co	789.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+782	Café Nescafé Tradición tarro 400g	Nescafé	9999.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+783	Azúcar blanca 3 kg	Iansa	3399.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+784	Té en hojas ceylán bolsa 250 g	Superior	2539.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+785	Compota Vivo 90 g, Mifrut, Manzana	Vivo	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+786	Galletas Din Don 115 g	Costa	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+787	Cereal Milo 300g	Milo	0.0	1728.0	2469.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	741.0	1.13	1.0
+788	Galletas duo chocolate 500 g	Griesson Duo	2399.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+789	Chocolate Rolls crocante 150 g	Costa	1539.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+790	Azúcar rubia 1 kg	Cuisine & Co	0.0	1599.0	1889.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	290.0	0.442	1.0
+791	Galletas Mckay Maravilla 147g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	-749.0	-1.143	1.0
+792	Galletas Nik limón 71 g	Costa	409.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+793	Oblea Super 8 bolsa 232 g	Nestlé	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+794	Galletas Mckay Soda Clásica 180g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+795	Galleta Nik 160 g	Costa	1329.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+796	Café Nescafé Dolca tarro 170g	Nescafé	0.0	3429.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	-3429.0	-5.231	1.0
+797	Galletas Cookies and Cream 126 g	Oreo	0.0	699.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	-699.0	-1.066	1.0
+798	Café descafeinado 170 g	Gold	0.0	3412.0	4549.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	1137.0	1.734	1.0
+799	Galletas Donuts leche 100 g	Costa	949.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+800	Manjar Nestlé El Manjar Doypack 800g	Nestlé	3529.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+801	Cereal Máxima bolitas de chocolate 500 g	Máxima MP	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+802	Galletas Mckay Niza 150g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	2	-749.0	-1.143	1.0
+803	Galletas Frac frutilla chocolate 130 g	Costa	569.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+804	Avena instantánea 750 g	Quaker	1829.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+805	Azúcar blanca 5 kg	Iansa	5599.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+806	Galletas Mckay Mini Vino 40g	Mckay	245.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+807	Mermelada de mora sin azúcar 200 g	Cuisine & Co	939.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+808	Chocolate Sahne Nuss Barra 250g	Sahne Nuss	3949.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+809	Mermelada frutilla sin azúcar 200 g	Cuisine & Co	939.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+810	Galletas de salvado tripack 585 g	Vivo	0.0	1810.0	2129.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	319.0	0.487	1.0
+811	Galleta chip Kuky Chocolate 120g	Mckay	869.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+812	Azúcar 5 kg	Cuisine & Co	4859.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+813	Galletas Mckay Limón 150g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	-749.0	-1.143	1.0
+814	Galletas tripack Crackelet 255 g	Costa	0.0	1053.0	1239.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	186.0	0.284	1.0
+815	Galletas mini Dos en Uno coco 35 g	Dos En Uno	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+816	Café instantáneo frasco liofilizado 170 g	Cruzeiro	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+817	Cereal Trix 300g	Trix	0.0	1749.0	2499.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	750.0	1.144	1.0
+818	Galletón avena y arándanos rojos 40 g	Quaker	349.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+819	Mermelada mora con trozos fruta 250 g	Watt'S	969.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+820	Chocolate Sahne Nuss Barra 160g	Sahne Nuss	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+821	Mermelada durazno con trozos fruta 250 g	Watt'S	969.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+822	Barras de cereal chispas de chocolate 120 g	Quaker	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+823	Endulzante Stevia líquido 400 ml	Daily	3919.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+824	Café Primera Selección 170 g	Gold	0.0	3367.0	4489.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	1122.0	1.712	1.0
+825	Pack 5 un. Compota Mifrut mix de frutas 90 g c/u	Vivo	2399.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+826	Azúcar 1.3 kg	Cuisine & Co	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+827	Galletas Frac vainilla 130 g	Costa	569.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+828	Azúcar rubia 500 g	Cuisine & Co	959.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+829	Galletas mini Festidulce 35 g	Arcor	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+830	Galletas Bocaditos 300 g	Dos En Uno	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+831	Galletas Nestlé Mckay Coco 120g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	-749.0	-1.143	1.0
+832	Galletas mini de chocolate rellenas 40 g	Oreo	429.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+833	Saborizante para Leche Milo 500g	Milo	4199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+834	Manjar 400 g	Colun	1719.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+835	Cereal Zucaritas 480 g	Kellogg'S	3869.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+836	Azúcar flor 500 g	Iansa	1049.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+837	Cereal Natur 20 g, natural de maíz	Natur	0.0	359.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	-359.0	-0.548	1.0
+838	Cereal Natur Bolsa 20 g, De Arroz	Natur	0.0	359.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	-359.0	-0.548	1.0
+839	Galletas mini 39 g	Toddy	329.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+840	Galletas Mckay Mantequilla 140g	Mckay	0.0	749.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	-749.0	-1.143	1.0
+841	Mermelada Máxima frutilla 250 g	Máxima MP	419.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+842	Chocolate Relleno Capri Frutilla 90g	Capri	1079.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+843	Mermelada Máxima mora 250 g	Máxima MP	419.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+844	Café clásico 170 g	Monterrey	2929.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+845	Galleta Oblea Alteza Frutilla 140g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+846	Galletas mini Dos en Uno limón 35 g	Dos En Uno	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+847	Chocolate Bon o Bon Leche 120 g	Arcor	0.0	899.0	1499.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	600.0	0.915	1.0
+848	Endulzante líquido stevia sucralosa 250 ml	Iansa Cero K	3329.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+849	Manjar 1 kg	Colun	3599.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+850	Cereal hojuela de maíz con azúcar 500 g	Máxima MP	1379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+851	Azúcar rubia 500 g	Iansa	1159.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+852	Bizcocho Chocman 8 un. 33 g c/u	Costa	1979.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+853	Cereal Zucosos 350g	Zucosos	0.0	1799.0	2749.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	950.0	1.449	1.0
+854	Galletas Soda Line 180 g	Costa	0.0	727.0	855.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	128.0	0.195	1.0
+855	Cereal Chocapic 720g	Chocapic	0.0	2699.0	4499.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	1800.0	2.746	1.0
+856	Galletas Triton Doble Crema 147g	Mckay	779.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+857	Barra cereal En línea chocolate 15 g 6 unid	En Línea	1839.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+858	Endulzante líquido stevia 270 ml	Daily	3069.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+859	Galletas Tuareg mango piña 120 g	Costa	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+860	Cereal bolitas de chocolate 330 g	En Línea	2449.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+861	Cereal Mono Rolls 400 g	Costa	2449.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+862	Manjar Nestlé El Manjar 500g	Nestlé	2099.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+863	Avena tradicional 750 g	Cuisine & Co	0.0	1099.0	1569.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	470.0	0.717	1.0
+864	Alimento en polvo chocolate 250 g	Cola Cao	1379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+865	Chocolates Rolls Nuts 150 g	Costa	1539.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+866	Pack galletas vainilla 3 un. 131 g c/u	Arcor	0.0	1350.0	1749.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	399.0	0.609	1.0
+867	Galletas Cracker horneadas 107 g	Selz	0.0	430.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	-430.0	-0.656	1.0
+868	Mermelada damasco sin azúcar 200 g	Cuisine & Co	939.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+869	Galletas surtidas 400 g	Dos En Uno	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+870	Gomitas Frugelé 430 g	Ambrosoli	2539.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+871	Galletas Grill Clásica 35g	Mckay	365.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+872	Galletas de Agua Line 210 g	Costa	0.0	747.0	879.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	132.0	0.201	1.0
+873	Galletas Frac cappuccino bicolor 130 g	Costa	569.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+874	Cereal Chocapic Receta Original 330 g	Chocapic	0.0	1799.0	2589.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	790.0	1.205	1.0
+875	Chocolate Relleno Capri Almendra 90g	Capri	1079.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+876	Cereal Cola Cao Pillows cacao 400 g	Pillows	2959.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+877	Chocolate blanco 100 g	Karina	1199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+878	Cereal Máxima hojuelas chocolatadas 500 g	Máxima MP	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+879	Galletas Gretel rellenas con chocolate 85 g	Costa	959.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+880	Compota Vivo 90 g, Mifrut, Pera	Vivo	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+881	Gran cereal Balls & roll 400 g	Costa	2449.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+882	Leche en polvo chocolate instantáneo bolsa 180 g	Cola Cao	0.0	903.0	1129.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	4	226.0	0.345	1.0
+883	Galletas de arroz Mizos manzana 16 g	Mizos	419.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+884	Té Sabores Surtidos Supremo Caja 40 g, 20 bolsas	Supremo	1619.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+885	Mermelada de Frutilla Watt's 250 g, Con Trozos de Fruta	Watt'S	969.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+886	Endulzante líquido tradicional 270 ml	Daily	1429.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+887	Malva bañados en chocolate 250 g	Calaf	2069.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+888	Galletas de coco 125 g	Costa	0.0	599.0	689.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	90.0	0.137	1.0
+889	Té Ceylán bolsa 250 g	Mildred Tea	2099.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+890	Té Supremo ceylan oro, 50 bolsitas	Supremo	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+891	Chocolate Relleno Capri Guinda 90g	Capri	1079.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+892	Bebida a base de cebada Ecco 170g	Ecco	2199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+893	Galletas Donuts Orange bitter 100 g	Costa	949.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+894	Té Ceylán Canela Supremo Caja 40 g, 20 Bolsas, Aromatizado	Supremo	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+895	Pack 6 un. Galletas chocolate 36 g c/u	Oreo	1499.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+896	Chocolate con avellanas 100 g	Karina	1199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+897	Bizcocho Chocman 33 g	Costa	209.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+898	Dulce de membrillo 250 g	Cuisine & Co	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+899	Chocolate de Leche Trencito Aireado Barra 105g	Trencito	0.0	1839.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	-1839.0	-2.805	1.0
+900	Chocolate Relleno Capri Trufa 90g	Capri	1079.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+901	Dulce de leche 400 g	Soprole	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+902	Chocolate relleno menta 120 g	Orly	1079.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+903	Galletas Gran Cereal fibra de cacao 135 g	Costa	0.0	699.0	889.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	190.0	0.29	1.0
+904	Café Nescafé Decaf Tarro 170g	Nescafé	5499.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+905	Cereales line berries 320 g	Vivo	2409.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+906	Galleta Grill Clásica 140g	Mckay	1229.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+907	Caramelo frugele duo ambrosoli 215 gr	Ambrosoli	1000.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+908	Barras de cereal frutilla 120 g	Quaker	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+909	Chocolate amargo en polvo 150 g	Gourmet	1379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+910	Galletas Donuts chocolate blanco 100 g	Costa	949.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+911	Chocolate dulce en polvo Gourmet 200 g	Gourmet	849.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+912	Té verde Supremo 50 bolsas, premium	Supremo	0.0	2149.0	2849.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	700.0	1.068	1.0
+913	Chancaca 450 g	Iansa	1819.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+914	Galleta Agua Light Selz Pack 3 unid, 600 g c/u, Bajo en sodio	Selz	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+915	Té negro yellow label 20 bolsitas	Lipton	1069.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+916	Cereal Chocapic 350g	Chocapic	0.0	1784.0	2549.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	765.0	1.167	1.0
+917	Manjar alulosa doypack 400 g	Daily	3039.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+918	Galletas de chocolate 140 g	Costa	0.0	599.0	689.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	90.0	0.137	1.0
+919	Dulce de leche 500 g	Soprole	1599.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+920	Mantequilla de maní cremosa 510 g	American Classic	2999.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+921	Hierba Menta Supremo Caja 20 g, 20 Bolsitas	Supremo	919.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+922	Galletas Vino 160 g	Dos En Uno	599.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+923	Chocolate Bon o Bon Leche 105 g	Arcor	0.0	863.0	1439.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	576.0	0.879	1.0
+924	Mermelada de Frambuesa Watt's 250 g, Con Trozos de Fruta	Watt'S	969.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+925	Avena instantánea 450 g	Quaker	1379.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+926	Café grano molido Moka 250 g	Monterrey	2889.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+927	Cereal Cornflakes 500 g	Kellogg'S	3649.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+928	Mantequilla de maní original King 350 g	Mani King	2699.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+929	Chancaca 400 g	Deliciosa	2199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+930	Barquillo para Helado Dulcono Roma 10 unid, 30 g	Dulcono Roma	789.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+931	Chocolate con pasas y avellanas 100 g	Karina	1199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+932	Té Ceylán Manzana y Canela Supremo 20 bolsitas, Caja 40 g	Supremo	1299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+933	Compota Vivo 90 g, Mifrut, Durazno	Vivo	489.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+934	Galletas Selz Cracker 107 g, Sabor Orégano	Selz	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+935	Galletas de arroz Mizos 25 g, yoghurt y limón	Mizos	519.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+936	Cereal Vivo 360 g, Check Cacao	Vivo	2719.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+937	Saborizante para Leche Milo 300g	Milo	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+938	Mermelada de Damasco Watt's 250 g, Con Trozos de Fruta	Watt'S	969.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+939	Chocolate relleno con Oreo y crema 100 g	Milka	0.0	1399.0	1629.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	230.0	0.351	1.0
+940	Endulzante stevia 270 ml	Naturalist	0.0	2399.0	2999.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	600.0	0.915	1.0
+941	Galletas Mckay Agua 205g	Mckay	979.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+942	Galletas Dos en Uno chocolate 35 g	Dos En Uno	190.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+943	Dulce de Membrillo Watt's, 250 g	Watt'S	799.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+944	Mermelada mora 0% azúcar 200 g	Regimel	1059.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+945	Cereal Rock & Choc 500 g	Cuisine & Co	2359.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+946	Té Negro Emblem Tea Ceylon Blend Original 100 bolsas	Emblem	2329.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+947	Galletas Triton Limón - White 126g	Mckay	0.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+948	Granola miel & almendras 370 g	Vivo	0.0	1799.0	2109.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	310.0	0.473	1.0
+949	Chocolate Costanuss 120 g	Costa	1199.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+950	Gomitas Mogul Ositos 90 g	Arcor	719.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+951	Miel de abejas 450 g	Cuisine & Co	0.0	3399.0	4299.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	900.0	1.373	1.0
+952	Galletas Gretel rellenas con frutilla 85 g	Costa	959.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+953	Galletas oblea mini Cua Cua cubierta de chocolate con vainilla 42 g	Cua Cua	479.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+954	Saborizante para Leche Milo 700g	Milo	6299.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+955	Café grano molido 250 g	Monterrey	2889.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+956	Gomitas Eucaliptus 90 g	Merello	619.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+957	Galletas chispas 142.5 g	Toddy	889.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+958	Granola avena, miel y almendras 342 g	Quaker	2179.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+959	Galletas de Soda Vivo 123 g	Vivo	0.0	747.0	879.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	132.0	0.201	1.0
+960	Cereal Corn Flakes 480g	Corn Flakes	3149.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+961	Chocolate Nestlé Especialidades Bombón 251g	Nestlé	3599.0	0.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+962	Galletas chocolate crema chocolate 126 g	Oreo	0.0	699.0	0.0	0	supermercados	desayuno-y-dulces	2022-07-16 22:11:26.364649	1 un	1	6	-699.0	-1.066	1.0

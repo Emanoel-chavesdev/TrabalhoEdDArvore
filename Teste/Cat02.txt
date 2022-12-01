@@ -1,0 +1,240 @@
+241	Pack 24 un. Cerveza lager 5.2° 330 cc	Stella Artois	0.0	12490.0	21990.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	9500.0	14.492	1.0
+242	Vino Diablo Red Ensamblaje 750 cc	Concha Y Toro	7850.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+243	Pack 6 un. Cerveza rubia botella 330 cc	Corona	6290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+244	Pack 6 un. Cerveza Lager lata 354 cc	Budweiser	0.0	2990.0	5150.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	2160.0	3.295	1.0
+245	Pack 18 un. Cerveza Lager 4.6° 330 cc c/u	Corona	0.0	12990.0	19750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	6760.0	10.312	1.0
+246	Pack 6 un. cerveza maracuyá 350 cc	Stones	0.0	4940.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	-4940.0	-7.536	1.0
+247	Pisco Añejado en Roble 35° botella 1 L	Mistral	8150.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+248	Pack 6 un. Cerveza 350 cc	Royal Guard	0.0	5440.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	-5440.0	-8.299	1.0
+249	Vino Varietal Cabernet Sauvignon 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	360.0	0.549	1.0
+250	Pack 6 un. Cerveza Golden Lager lata 473 cc	Cusqueña	0.0	3490.0	5790.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	2300.0	3.509	1.0
+251	Pack 6 un. Cerveza limón lata 350 cc	Stones	0.0	4940.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	-4940.0	-7.536	1.0
+252	Vino Varietal Carménère 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	360.0	0.549	1.0
+253	Vino Oveja Negra Carménère Merlot 14° 750 cc	Oveja Negra	4750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+254	Vino Diablo Black Cabernet Sauvignon 750 cc	Casillero Del Diablo	7850.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+255	Vino Orgánico Las Mulas Reserva Carménère 13.5° botella 750 cc	Mulas	6199.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+256	Vino Selección Dulce botella 750 cc	Gato	2150.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+257	Pack 6 un. Cerveza lata 470 cc	Royal Guard	0.0	3690.0	6820.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	3130.0	4.775	1.0
+258	Pack 6 un. Cerveza cero sin alcohol 350 cc	Cristal	0.0	2790.0	4450.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	1660.0	2.532	1.0
+259	Vino Varietal Merlot 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	360.0	0.549	1.0
+260	Vino Reserva Ensamblaje Red Blend 13° 750 cc	Casillero Del Diablo	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	900.0	1.373	1.0
+261	Vino Miguel Torres Gran Reserva Carménère 750 cc	Viña Miguel Torres	9690.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+262	Vino Syrah/Cabernet Sauvignon Toro de Piedra 750 cc	Toro De Piedra	9990.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+263	Pack 6 un. Cerveza cero Radler 350 cc	Cristal	0.0	2790.0	4640.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	1850.0	2.822	1.0
+264	Vino Pinot 13.5° botella 750 cc	Undurraga	3280.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+265	Pack 6 un. Cerveza 330 cc	Sol	0.0	4390.0	6430.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	2040.0	3.112	1.0
+266	Vino Carménère 750 cc	Doña Dominga	0.0	2990.0	3950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	960.0	1.464	1.0
+267	Vino Carménère botella 750 cc	Castillo De Molina	0.0	6390.0	7690.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	1300.0	1.983	1.0
+268	Vino Casillero Del Diablo Cabernet Sauvignon 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	900.0	1.373	1.0
+269	Vino Cuvee Gran Reserva Carménère 750 cc	Misiones De Rengo	7290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+270	Vino Casillero Del Diablo Reserva Especial Cabernet Sauvignon 750 cc	Concha Y Toro	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+271	Pisco Nobel Añejado en Roble 40° botella 750 cc	Mistral	13590.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+272	Vino Merlot Viña Santa Rita Gran 120 700 cc	Santa Rita	0.0	1490.0	1950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	460.0	0.702	1.0
+273	Pisco Añejado en Roble 40° botella 750 cc	Mistral	0.0	6190.0	7950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	1760.0	2.685	1.0
+274	Vino Reserva Cabernet Sauvignon 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	700.0	1.068	1.0
+275	Pack 18 un. Cerveza Golden 4.8° 354 cc	Cusqueña	0.0	7950.0	12950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	5000.0	7.627	1.0
+276	Vino Cabernet Sauvignon Gran Reserva Tarapacá 750 cc	Tarapaca	9490.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+277	Pack 6 un. Cerveza lata 4.5° 473 cc	Becker	0.0	2890.0	4150.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	1260.0	1.922	1.0
+278	Vino Cabernet Sauvignon Viña Santa Rita 700 cc	Viña Santa Rita	0.0	1490.0	1950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	460.0	0.702	1.0
+279	Vino Misiones de Rengo Varietal Rose Cabernet Syrah botella 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	360.0	0.549	1.0
+280	Vino Blanco 12° 700 cc	Gato	1950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	1	0.0	0.0	1.0
+281	Vino Oveja Negra Cabernet Franc Carménère 13.5° 750 cc	Oveja Negra	4750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+282	Vino Casillero Del Diablo Carménère 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	900.0	1.373	1.0
+283	Bipack Pisco Añejado en Roble 35° botella 750 cc	Mistral	10900.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+284	Vino Casillero Del Diablo Merlot 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	900.0	1.373	1.0
+285	Vino Varietal Sauvignon Blanc 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	360.0	0.549	1.0
+286	Vino Varietal Chardonnay 750 cc	Misiones De Rengo	0.0	2690.0	3050.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	360.0	0.549	1.0
+287	Vino Cabernet Sauvignon Las Mulas Orgánico 750 cc	Mulas	6199.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+288	Pack 4 un. Cerveza Torobayo botella 330 cc	Kunstmann	0.0	4890.0	6940.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	2050.0	3.127	1.0
+289	Vino Exportación Tinto botellón 1.5 L	Concha Y Toro	0.0	2450.0	2850.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	400.0	0.61	1.0
+290	Vino Cabernet Sauvignon 13.5° 750 cc	Doña Dominga	0.0	2990.0	3950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	960.0	1.464	1.0
+291	Pack 6 un. Cerveza red citrus stones lata 350 cc	Lemon Stones	0.0	4940.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	-4940.0	-7.536	1.0
+292	Vino Marqués de Casa Concha Cabernet Sauvignon 750 cc	Marqués De Casa Concha	0.0	10990.0	14190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	3200.0	4.882	1.0
+293	Whisky Johnnie Walker Red Label 1L	Johnnie Walker	15590.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+294	Pack 6 un. Cerveza lata 470 cc	Escudo	0.0	2990.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1900.0	2.898	1.0
+295	Pack 6 un. Cerveza 5° lata 350 cc	Coors	4840.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+296	Vino Reserva Carménère botella 750 cc	Casillero Del Diablo	6430.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+297	Vino Santa Rita Secreto Carménère Reserva 750 cc	Santa Rita	0.0	2690.0	3350.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	660.0	1.007	1.0
+298	Vino Cabernet Sauvignon botella 750 cc	Castillo De Molina	0.0	6390.0	7690.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1300.0	1.983	1.0
+299	Pack 6 un. Cerveza lager botella 355 cc	Budweiser	5250.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+300	Pisco Sour 1 L	Campanario	5150.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+301	Pack 4 un. Cerveza miel botella 330 cc	Kunstmann	0.0	4890.0	7420.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	2530.0	3.859	1.0
+302	Vino Cabernet Sauvignon Syrah 13.5° 750 cc	Oveja Negra	4750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+303	Vino Reserva Carménère 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	700.0	1.068	1.0
+304	Vino Santa Ema Gran Reserva Merlot 750 cc	Santa Ema	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+305	Cóctel Ice 7° lata 310 cc	Mistral	1550.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+306	Vino Red Blend 13.6° 750 cc	Misiones De Rengo	0.0	5990.0	7190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1200.0	1.831	1.0
+307	Cóctel Aperitivo Ramazzotti 700 cc	Ramazzotti	11290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+308	Pack 24 un. Cervezas lata 350 cc	Coors	0.0	10890.0	16990.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	6100.0	9.305	1.0
+309	Vino Adobe Orgánico Carménère 750 cc	Emiliana	0.0	4490.0	5890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1400.0	2.136	1.0
+310	Pisco Añejado en Roble 46° botella 750 cc	Mistral	8600.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+311	Vino Blanco Selección Dulce 15° botella 750 cc	Gato	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+312	Pack 6 un. Cerveza lata 4.4° 473 cc	Pilsen Del Sur	0.0	2990.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1900.0	2.898	1.0
+313	Vino Casillero Del Diablo Summer Edition Rosé 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	900.0	1.373	1.0
+314	Vino Santa Rita Secreto Cabernet Sauvignon Reserva 750 cc	Santa Rita	0.0	2690.0	3350.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	660.0	1.007	1.0
+315	Vino Insigne Chardonnay 750 cc	Carmen	0.0	2190.0	2700.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	510.0	0.778	1.0
+316	Vino Añejo San Blas 750 cc	Concha Y Toro	3160.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+317	Vino Misiones de Rengo Cuvee Gran Reserva Cabernet Sauvignon botella 750 cc	Misiones De Rengo	7290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+318	Vino Carménère Viña Undurraga 750 cc Pinot	Undurraga	3280.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	0.0	0.0	1.0
+319	Pack 6 un. Cerveza Negra lata 473 cc	Becker	0.0	2890.0	4130.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	1240.0	1.892	1.0
+320	Vino Carménère 14.5° botella 750 cc	Marqués De Casa Concha	0.0	10990.0	14190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	2	3200.0	4.882	1.0
+321	Vino Ensamblaje Cabernet Sauvignon Viña Casas Patronales 750 cc	Viña Casas Patronales	5550.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+322	Pisco Sour 16° 1 L	Artesanos Del Cochiguaz	4590.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+323	Vino Medalla Real Carménère 14° 750 cc	Santa Rita	0.0	3880.0	4750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	870.0	1.327	1.0
+324	Pack 24 un. Cerveza Golden Lager 4.8° 330 cc	Cusqueña	21990.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+325	Vino Merlot Viña San Pedro 700 cc Gato Negro	Viña San Pedro	1950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+326	Vino Santa Emiliana Cabernet Sauvignon 700 cc	Concha Y Toro	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+327	Vino Exportación Selecto Merlot 700 cc	Concha Y Toro	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+328	Vino Carménère Viña Tarapacá Gran Reserva 750 cc	Tarapaca	9490.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+329	Vino Reserva Merlot botella 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	700.0	1.068	1.0
+330	Vino Merlot botella 750 cc	Castillo De Molina	0.0	6390.0	7690.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	1300.0	1.983	1.0
+331	Vino Bicicleta Merlot 750 cc	Cono Sur	3650.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+332	Vino Late Harvest Sauvignon Blanc 375 cc	Concha Y Toro	3550.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+333	Misiones de Rengo Late Harvest 12.1° 750 cc	Misiones De Rengo	0.0	4190.0	5090.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	900.0	1.373	1.0
+334	Vino Casillero Del Diablo Reserva Privada Carménère 750 cc	Concha Y Toro	0.0	6990.0	8790.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	1800.0	2.746	1.0
+335	Cóctel Ice 7° botella 275 cc	Mistral	0.0	1190.0	1500.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	310.0	0.473	1.0
+336	Vino Carménère Santa Digna Reserva 750 cc	Miguel Torres	0.0	6290.0	7930.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	1640.0	2.502	1.0
+337	Caja 24 un. cerveza lager botella 330 cc c/u	Heineken	0.0	12990.0	22270.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	9280.0	14.156	1.0
+338	Pisco Tres Erres doble destilado 35° 1 L	Tres Erres	0.0	4490.0	6750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	2260.0	3.448	1.0
+339	Pisco Nobel Barrica Tostada 40° botella 750 cc	Mistral	0.0	9590.0	12950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	3360.0	5.126	1.0
+340	Whisky Johnnie Walker Red Label 750 cc	Johnnie Walker	0.0	10590.0	12990.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	2400.0	3.661	1.0
+341	Vino Cabernet Sauvignon Viejo Roble Reserva Viña Undurraga 750 cc	Undurraga	3990.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+342	Cóctel de vodka piña 5.5° botella 275 cc	Spirit	1650.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+343	Vino Santa Rita Secreto Merlot Reserva 750 cc	Santa Rita	0.0	2690.0	3350.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	660.0	1.007	1.0
+344	Vino Carménère Viña Tarapacá Reserva 750 cc	Tarapaca	5290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+345	Vino Blanco 11.5° Caja 1 L	Santa Helena	2050.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+346	Espumante Moscato Barón Lacroix 12° 750 cc	Undurraga	4590.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+347	Vino Merlot-Syrah Terra Andina Clásico 750 C.C.	Terra Andina	2450.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+348	Espumante Brut cava 11.5° botella 750 cc	Jaume Serra	3799.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+349	Pack 6 un. Cerveza 4.5° lata 330 cc	Landvik	2850.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+350	Vino Exportación Tinto 2 L	Concha Y Toro	3250.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+351	Vino Tinto Gato botellón 1.5 L	Viña San Pedro	0.0	2890.0	3450.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	560.0	0.854	1.0
+352	Cerveza Hoppy lager lata 470 cc	Austral	0.0	990.0	1330.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	340.0	0.519	1.0
+353	Cóctel sour de limón 700 cc	Sabor Andino	5200.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+354	Cóctel de vodka berry 5.5° botella 275 cc	Spirit	1650.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+355	Espumante Rosé 12° 750 cc	Valdivieso	0.0	4790.0	5550.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	760.0	1.159	1.0
+356	Vino Misiones de Rengo Black Carménère 750 cc	Misiones De Rengo	9290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+357	Vino Cabernet Sauvignon Gato Negro Viña San Pedro 700 cc	Viña San Pedro	1950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+358	Vino Misiones de Rengo Reserva Chardonnay botella 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	700.0	1.068	1.0
+359	Cóctel Sour Mango 12° 1 L	Secreto Peruano	4290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	0.0	0.0	1.0
+360	Pisco Reservado Transparente 40° botella 750 cc	Alto Del Carmen	0.0	6090.0	7950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	3	1860.0	2.837	1.0
+361	Vino Cabernet Sauvignon Tarapaca 12° León botella 750 cc	Tarapaca	2750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+362	Cerveza Torobayo 470 cc	Kunstmann	1950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+363	Pack 4 un. Cerveza Amber Lager botellin 355 cc	Kilómetro 24.7	0.0	3990.0	5190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1200.0	1.831	1.0
+364	Vino Ensamblaje Cabernet Carménère Reserva 750 cc	Concha Y Toro	4840.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+365	Vino Reserva Cabernet Sauvignon 750 cc	Viña Casas Patronales	5550.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+366	Vino Cabernet Sauvignon Medalla Real Viña Santa Rita 750 cc	Santa Rita	0.0	3880.0	4750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	870.0	1.327	1.0
+367	Ron Blanco 40° 750 cc	Maddero	0.0	3190.0	4300.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1110.0	1.693	1.0
+368	Vino Exportación Selecto Merlot botellón 1.5 L	Concha Y Toro	3100.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+369	Cóctel sour de mango 12° 700 cc	Sabor Andino	5200.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+370	Vino Trío Ensamblaje 750 cc	Concha Y Toro	6130.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+371	Vino Casillero Del Diablo Syrah 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	900.0	1.373	1.0
+372	Vino Gran Edición 120 Santa Rita Syrah Cabernet Sauvignon 700 cc	Viña Santa Rita	2350.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+373	Vino Blanco Viña Santa Rita 500 cc	Santa Rita	1050.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+374	Whisky Tennessee 40° 750 cc	Jack Daniel'S	26460.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+375	Cerveza Patagonia lotus 6° 470 cc	Austral	0.0	990.0	1330.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	340.0	0.519	1.0
+376	Cerveza limón sabor original lata 350 cc	Lemon Stones	880.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+377	Vino Carménère Viña Ventisquero Reserva 750 cc	Ventisquero	5299.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+378	Pisco Etiqueta Negra 40° botella 750 cc	Alto Del Carmen	11450.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+379	Espumante Brut 12° 750 cc	Valdivieso	0.0	4790.0	5550.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	760.0	1.159	1.0
+380	Pisco Añejado en Roble 35° botella 750 cc	Mistral	0.0	5290.0	7250.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1960.0	2.99	1.0
+381	Vino Sauvignon Carménère 750 cc	Doña Dominga	0.0	2990.0	3950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	960.0	1.464	1.0
+382	Pack 6 un. Cerveza en lata 355 cc	Miller	5690.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+383	Pack 6 un. Cerveza lager lata 350 cc	Cristal	4050.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+384	Pack 6 un. Cerveza lata 4.5° 500 cc	Landvik	0.0	2990.0	3899.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	909.0	1.387	1.0
+385	Pack 10 un. cerveza belga lager 5.2° 354 cc c/u	Stella Artois	7450.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+386	Cóctel piña colada 12° 700 cc	Capel	0.0	3190.0	4550.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1360.0	2.075	1.0
+387	Cerveza Summer Lúcuma 7.0° 350 cc	Volcanes Del Sur	1450.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+388	Vino Santa Emiliana Carménère 700 cc	Concha Y Toro	0.0	2490.0	2750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	260.0	0.397	1.0
+389	Pack 6 un. Cerveza malta lata 350 cc	Morenita	0.0	2990.0	4250.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1260.0	1.922	1.0
+390	Pack 6 un. Cerveza Roja lata 473 cc	Becker	0.0	2890.0	4190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1300.0	1.983	1.0
+391	Cerveza sin alcohol lata 330 cc	3 Horses	699.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+392	Ron blanco 39.5° botella 750 cc	Sierra Morena	0.0	3290.0	5100.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1810.0	2.761	1.0
+393	Vino Santa Emiliana Chardonnay 700 cc	Concha Y Toro	0.0	2490.0	2750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	260.0	0.397	1.0
+394	Pack 4 un. Cerveza arándano botella 330 cc	Kunstmann	0.0	4890.0	7610.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	2720.0	4.149	1.0
+395	Vino Misiones de Rengo Reserva Malbec botella 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	700.0	1.068	1.0
+396	Vino Insigne Merlot 750 cc	Carmen	0.0	2190.0	2700.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	510.0	0.778	1.0
+397	Vino Blanco 11.5° Caja 2 L	Santa Helena	3400.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+398	Pisco Reservado 40° botella 750 cc	Alto Del Carmen	0.0	6090.0	7950.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	1860.0	2.837	1.0
+399	Espumante Charmat Premium Rosé botella 750 cc	Misiones De Rengo	5190.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+400	Vino Exportación Selecto Cabernet Sauvignon 700 cc	Concha Y Toro	2250.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	4	0.0	0.0	1.0
+401	Vino Santa Emiliana Merlot 700 cc	Concha Y Toro	0.0	2490.0	2750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	260.0	0.397	1.0
+402	Vino Adobe Orgánico Cabernet Sauvignon 750 cc	Emiliana	0.0	4490.0	5890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1400.0	2.136	1.0
+403	Cerveza Red Lager lata 470 cc	Austral	0.0	990.0	1330.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	340.0	0.519	1.0
+404	Cóctel Sour Limón 15° 1 L	Secreto Peruano	4290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+405	Vino Casillero Del Diablo Malbec 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	900.0	1.373	1.0
+406	Vino Reserva Privada Cabernet Sauvignon 750 cc	Concha Y Toro	0.0	6990.0	8790.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1800.0	2.746	1.0
+407	Vino Carménère Reserva Series Viña Errázuriz 750 cc	Viña Errázuriz	6190.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+408	Pack 12 un. cerveza lata 355 cc c/u	Budweiser	0.0	5790.0	8750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	2960.0	4.515	1.0
+409	Pisco Nobel 30° Fire botella 750 cc	Mistral	13950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+410	Vino Ensamblaje Cabernet Sauvignon - Syrah Aliwen Viña Undurraga 750 cc Reseva	Viña Undurraga	0.0	3824.0	4780.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	956.0	1.458	1.0
+411	Vino Cabernet Sauvignon Varietal 750 cc	Terra Andina	2450.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+412	Vino Gran Reserva Cabernet Sauvignon 750 cc	Don Matías	6990.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+413	Vino Gran Reserva Cabernet Sauvignon 750 cc	Santa Ema	0.0	7990.0	9790.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1800.0	2.746	1.0
+414	Vino Chardonnay 12° 750 cc	Tarapaca	2750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+415	Licor Aperol 11° 750 ml	Aperol	0.0	9990.0	11670.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1680.0	2.563	1.0
+416	Vino Adobe Orgánico Merlot 750 cc	Emiliana	0.0	4490.0	5890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1400.0	2.136	1.0
+417	Vino Cabernet Sauvignon Viña Santa Rita Gran 120 2 L	Santa Rita	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+418	Pisco blanco 40° 1 L	Campanario	0.0	3990.0	5850.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1860.0	2.837	1.0
+419	Pack 6 un. Cerveza lata 350 cc	Heineken	5830.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+420	Tequila Sombrero Negro 750 cc	Sombrero Negro	11390.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+421	Vino Chardonnay Viña Tarapacá Gran Tarapacá 750 cc	Tarapacá	5290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+422	Vino Casillero Del Diablo Sauvignon Blanc 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	900.0	1.373	1.0
+423	Vino Insigne Carménère 750 cc	Carmen	0.0	2190.0	2700.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	510.0	0.778	1.0
+424	Vino Cabernet Sauvignon Reserva Tarapacá 750 cc	Tarapaca	5290.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+425	Whiskey Finest 40° 750 cc	Ballantine'S	11490.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+426	Vino Carménère Viña San Pedro Gato 700 cc	Viña San Pedro	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+427	Vino Cabernet Sauvignon Viña Tarapacá 700 cc	Tarapaca	2250.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+428	Vino Exportación Blanco botellón 1.5 L	Concha Y Toro	0.0	2450.0	2850.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	400.0	0.61	1.0
+429	Vino Tinto 2 L	Viña Santa Helena	0.0	2950.0	3400.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	450.0	0.686	1.0
+430	Cerveza Valdivia Pale Lager botella 500 cc	Kunstmann	1570.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+431	Vino Bicicleta Cabernet Sauvignon 750 cc	Cono Sur	3650.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+432	Cóctel Sour Mango 12° 700 cc	Ruta Cocktail	0.0	2490.0	3650.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1160.0	1.77	1.0
+433	Pisco Horcón Quemado 645 cc 35° Artesanal añejado	Horcón Quemado	0.0	6490.0	9150.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	2660.0	4.058	1.0
+434	Vino Merlot Gato Premium 13° 750 cc	Gato	2650.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+435	Vino Syrah Viña Castillo de Molina 750 cc	Castillo De Molina	7690.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+436	Vino Cabernet Sauvignon Santa Digna Viña Miguel Torres 700 cc	Miguel Torres	0.0	6290.0	7930.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	1640.0	2.502	1.0
+437	Vino Cabernet Sauvignon Viña Cousiño Macul 750 cc	Viña Cousiño Macul	3550.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+438	Vino Chardonnay Medalla Real Reserva 14° 750 cc	Santa Rita	0.0	3880.0	4750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	870.0	1.327	1.0
+439	Espumante Charmat Premium Brut botella 750 cc	Misiones De Rengo	5190.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	0.0	0.0	1.0
+440	Cerveza lata 740 cc	Budweiser	0.0	990.0	1200.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	5	210.0	0.32	1.0
+441	Vino Carménère Don Luis Viña Cousiño Macul 750 cc	Viña Cousiño Macul	0.0	3764.0	4850.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1086.0	1.657	1.0
+442	Vino Pérez Cruz Cabernet Sauvignon Reserva 750 cc	Viña Pérez Cruz	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+443	Vino Urmeneta Carménère 700 cc	Viña Urmeneta	2160.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+444	Vino Cabernet Sauvignon 13.5° 750 cc	Misiones De Rengo	0.0	5990.0	7190.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1200.0	1.831	1.0
+445	Vino Blanco Caja 1 L	Bodega Uno	1800.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+446	Vino Blanco Caja 2 L	Bodega Uno	3250.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+447	Vino Misiones de Rengo Reserva Cabernet - Syrah botella 750 cc	Misiones De Rengo	0.0	4190.0	4890.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	700.0	1.068	1.0
+448	Cóctel toffe cream 12° 700 cc	Capel	0.0	3190.0	4550.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1360.0	2.075	1.0
+449	Espumante Moscato 12° 750 cc	Valdivieso	0.0	4790.0	5550.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	760.0	1.159	1.0
+450	Pisco Especial 35° botella 1.5 L	Alto Del Carmen	0.0	8980.0	11450.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	2470.0	3.768	1.0
+451	Pisco 35° 1 L	Artesanos Del Cochiguaz	0.0	3690.0	4500.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	810.0	1.236	1.0
+452	Vino Red Blend Secret Reserve 2020 Viña Santa Rita 750Cc	Santa Rita	3950.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+453	Vino Trío Ensamblaje 750 cc	Concha Y Toro	6130.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+454	Vino Select Terroir Merlot 750 cc	Santa Ema	0.0	4990.0	6390.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1400.0	2.136	1.0
+455	Whisky Johnnie Walker Black Label 750 cc	Johnnie Walker	0.0	26990.0	31490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	4500.0	6.865	1.0
+456	Vino Sauvignon Blanc Viña Casas Del Bosque 13.5° 750 cc	Viña Casas Del Bosque	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+457	Whisky Pride 40° 1 L	Blender S	6000.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+458	Whisky 12 años 40° 750 cc	Chivas Regal	32490.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+459	Vino Carménère Tres Estrellas Viña Santa Carolina 750 cc	Viña Santa Carolina	2350.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+460	Vino Casillero Del Diablo Chardonnay 750 cc	Concha Y Toro	0.0	4590.0	5490.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	900.0	1.373	1.0
+461	Vino Frontera Merlot 750 cc	Concha Y Toro	2490.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+462	Vino Cabernet Sauvignon Don Luis Viña Cousiño Macul 750 cc	Viña Cousiño Macul	0.0	3764.0	4850.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1086.0	1.657	1.0
+463	Vino Blanco Caja 500 cc	Santa Helena	0.0	990.0	1150.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	160.0	0.244	1.0
+464	Vino Merlot Viña Santa Rita 750 cc Medalla Real Reserva Especial	Santa Rita	0.0	3880.0	4750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	870.0	1.327	1.0
+465	Espumante Viña Francisco de Aguirre Brut 12° 750 cc	Vfa	0.0	2990.0	4990.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	2000.0	3.051	1.0
+466	Vino Insigne Cabernet Sauvignon 750 cc	Carmen	0.0	2190.0	2700.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	510.0	0.778	1.0
+467	Cerveza malta lata 350 cc	Morenita	770.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+468	Vino Malbec Cabernet Sauvignon Medalla Real 750 cc	Santa Rita	0.0	3880.0	4750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	870.0	1.327	1.0
+469	Vino Cabernet Sauvignon Aliwen Viña Undurraga Reserva 750 cc	Viña Undurraga	0.0	3824.0	4780.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	956.0	1.458	1.0
+470	Pack Vino Viña Santa Rita 4 Unid 187.5 cc C/U Cabernet Sauvignon Carmen	Viña Santa Rita	3050.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+471	Cerveza Bockchocolate 5.0° 350 cc	Volcanes Del Sur	1320.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+472	Vino Cabernet Sauvignon Tres Medallas Viña Santa Rita 700 cc	Santa Rita	0.0	2290.0	2750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	460.0	0.702	1.0
+473	Pack 10 un. Cerveza Dutch lager 250 cc	Royal Dutch	6990.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+474	Pack 4 un. Cerveza negra botella 330 cc	Kunstmann	0.0	4890.0	6620.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1730.0	2.639	1.0
+475	Espumante Brut 12° 375 cc	Valdivieso	3640.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+476	Espumante Love 7° 750 cc	Prima	4870.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+477	Vino Carménère Panul Reserva 750 cc	Viñedos Errázuriz Ovalle	0.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
+478	Espumante Brut 12.5° botella 750 cc	Viñamar	0.0	4490.0	5790.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	1300.0	1.983	1.0
+479	Vino Chardonnay Tres Medallas Viña Santa Rita 750 cc	Santa Rita	0.0	2290.0	2750.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	460.0	0.702	1.0
+480	Vino Carménère Sauvignon Blanc 13° 750 cc	Oveja Negra	4750.0	0.0	0.0	0	supermercados	vinos-cervezas-y-licores	2022-07-16 22:11:26.364649	1 un	1	6	0.0	0.0	1.0
