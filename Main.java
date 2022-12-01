@@ -93,8 +93,6 @@ public class Main {
         System.out.println("Digite o Código do Produto para Listar: ");
         Produto produto = new Produto();
         produto.setCodigo(123L);
-
-        // Usa a mesma lógica do método de editar.
         int produtoIndex = PRODUTOS.indexOf(produto);
         if (produtoIndex > -1) {
             System.out.println(PRODUTOS.get(produtoIndex));
